@@ -1,0 +1,2133 @@
+"id","date","venue","temperature","precipitation"
+21700001,"2017-10-17","Quicken Loans Arena",53.51,0
+21700002,"2017-10-17","Oracle Arena",81.79,0
+21700003,"2017-10-18","Little Caesars Arena",67.3,0
+21700004,"2017-10-18","Bankers Life Fieldhouse",65.36,0
+21700005,"2017-10-18","Amway Center",75.14,0.0005
+21700006,"2017-10-18","Capital Center",58.99,0
+21700007,"2017-10-18","Td Garden",53.44,0
+21700008,"2017-10-18","Fedex Forum",69.94,0
+21700009,"2017-10-18","American Airlines Center",75.73,0
+21700010,"2017-10-18","Vivint Smart Home Arena",70.78,0
+21700011,"2017-10-18","At&t Center",78.2,0
+21700012,"2017-10-18","Talking Stick Resort Arena",97.57,0
+21700013,"2017-10-18","Golden 1 Center",80.65,0
+21700014,"2017-10-19","Scotiabank Arena",65.99,0
+21700015,"2017-10-19","Chesapeake Energy Arena",79.25,0
+21700016,"2017-10-19","Staples Center",84.6,0
+21700017,"2017-10-20","Spectrum Center",69.89,0
+21700018,"2017-10-20","Bankers Life Fieldhouse",73.25,0
+21700019,"2017-10-20","Wells Fargo Arena",95.04,0
+21700020,"2017-10-20","Capital Center",68.67,0
+21700021,"2017-10-20","Fiserv Forum",64.25,0
+21700022,"2017-10-20","Barclays Center",67.61,0
+21700023,"2017-10-20","Target Center",71.98,0
+21700024,"2017-10-20","American Airlines Center",81.47,0
+21700025,"2017-10-20","Smoothie King Center",78.99,0
+21700026,"2017-10-20","Talking Stick Resort Arena",95.32,0
+21700027,"2017-10-21","Scotiabank Arena",65.64,0
+21700028,"2017-10-21","Quicken Loans Arena",71.3,0
+21700029,"2017-10-21","American Airlines Center",81.79,0
+21700030,"2017-10-21","Madison Square Garden",70.34,0
+21700031,"2017-10-21","United Center",76.35,0
+21700032,"2017-10-21","Toyota Center",77.38,0
+21700033,"2017-10-21","Fedex Forum",74.24,0
+21700034,"2017-10-21","Fiserv Forum",75.14,0
+21700035,"2017-10-21","Pepsi Center",77.18,0
+21700036,"2017-10-21","Vivint Smart Home Arena",44.13,0.0054
+21700037,"2017-10-21","Staples Center",71.5,0
+21700038,"2017-10-22","Barclays Center",69.55,0
+21700039,"2017-10-22","Chesapeake Energy Arena",77.57,0
+21700040,"2017-10-22","Staples Center",77.93,0
+21700041,"2017-10-23","Little Caesars Arena",73.77,0
+21700042,"2017-10-23","American Airlines Center",72.79,0
+21700043,"2017-10-23","Toyota Center",72.75,0
+21700044,"2017-10-23","Fiserv Forum",51.38,0.0303
+21700045,"2017-10-23","American Airlines Center",72.79,0.0002
+21700046,"2017-10-23","At&t Center",80.35,0
+21700047,"2017-10-23","Pepsi Center",66.4,0
+21700048,"2017-10-23","Talking Stick Resort Arena",92.01,0
+21700049,"2017-10-24","Quicken Loans Arena",64.17,0.0525
+21700050,"2017-10-24","Amway Center",78.56,0.0109
+21700051,"2017-10-24","Td Garden",62.18,0
+21700052,"2017-10-24","Target Center",50.22,0
+21700053,"2017-10-24","Moda Center",64.67,0
+21700054,"2017-10-24","Staples Center",102.09,0
+21700055,"2017-10-25","Spectrum Center",67.09,0
+21700056,"2017-10-25","Little Caesars Arena",50.34,0
+21700057,"2017-10-25","Wells Fargo Arena",98.3,0
+21700058,"2017-10-25","Barclays Center",68.86,0.005
+21700059,"2017-10-25","American Airlines Center",70.4,0
+21700060,"2017-10-25","Chesapeake Energy Arena",63.13,0
+21700061,"2017-10-25","American Airlines Center",70.4,0
+21700062,"2017-10-25","Talking Stick Resort Arena",98.61,0
+21700063,"2017-10-25","Oracle Arena",89.48,0
+21700064,"2017-10-25","Staples Center",102.8,0
+21700065,"2017-10-26","United Center",51.08,0
+21700066,"2017-10-26","Fedex Forum",63.82,0
+21700067,"2017-10-26","Fiserv Forum",48.7,0
+21700068,"2017-10-26","Moda Center",63.91,0
+21700069,"2017-10-26","Golden 1 Center",86.24,0
+21700070,"2017-10-27","Spectrum Center",61.06,0
+21700071,"2017-10-27","Amway Center",70.19,0
+21700072,"2017-10-27","State Farm Arena",68.68,0
+21700073,"2017-10-27","Madison Square Garden",56.28,0
+21700074,"2017-10-27","Target Center",41.34,0
+21700075,"2017-10-27","Oracle Arena",85.43,0
+21700076,"2017-10-27","Staples Center",91.73,0
+21700077,"2017-10-28","Smoothie King Center",78.04,0
+21700078,"2017-10-28","American Airlines Center",49.34,0
+21700079,"2017-10-28","United Center",40.5,0
+21700080,"2017-10-28","Fedex Forum",42.75,0.2305
+21700081,"2017-10-28","American Airlines Center",49.34,0
+21700082,"2017-10-28","Vivint Smart Home Arena",59.65,0
+21700083,"2017-10-28","Moda Center",71.3,0
+21700084,"2017-10-28","Staples Center",86.83,0
+21700085,"2017-10-29","State Farm Arena",50.16,0.2236
+21700086,"2017-10-29","Bankers Life Fieldhouse",39.71,0
+21700087,"2017-10-29","Barclays Center",64.43,0
+21700088,"2017-10-29","Spectrum Center",69.95,0
+21700089,"2017-10-29","Golden 1 Center",84.83,0
+21700090,"2017-10-29","Quicken Loans Arena",40.83,0
+21700091,"2017-10-29","Oracle Arena",74.37,0
+21700092,"2017-10-30","Td Garden",60.29,0.0106
+21700093,"2017-10-30","American Airlines Center",75.85,0
+21700094,"2017-10-30","Madison Square Garden",64.99,0.1394
+21700095,"2017-10-30","Toyota Center",67.88,0
+21700096,"2017-10-30","Fedex Forum",51.43,0
+21700097,"2017-10-30","Smoothie King Center",60.76,0
+21700098,"2017-10-30","Vivint Smart Home Arena",67.76,0
+21700099,"2017-10-30","Moda Center",58.02,0
+21700100,"2017-10-30","Staples Center",72.14,0
+21700101,"2017-10-31","Bankers Life Fieldhouse",42.81,0
+21700102,"2017-10-31","Barclays Center",52.92,0
+21700103,"2017-10-31","Fiserv Forum",40.07,0
+21700104,"2017-10-31","Staples Center",67.65,0
+21700105,"2017-11-01","Spectrum Center",60.59,0
+21700106,"2017-11-01","Quicken Loans Arena",39.97,0
+21700107,"2017-11-01","Wells Fargo Arena",79.49,0
+21700108,"2017-11-01","Capital Center",50.96,0
+21700109,"2017-11-01","Td Garden",49.91,0
+21700110,"2017-11-01","American Airlines Center",53.16,0.0026
+21700111,"2017-11-01","Madison Square Garden",51.7,0
+21700112,"2017-11-01","Fedex Forum",52.41,0
+21700113,"2017-11-01","Smoothie King Center",71.43,0
+21700114,"2017-11-01","Pepsi Center",51.38,0
+21700115,"2017-11-01","Vivint Smart Home Arena",53.54,0
+21700116,"2017-11-01","Staples Center",67.59,0
+21700117,"2017-11-02","At&t Center",80.01,0
+21700118,"2017-11-02","Moda Center",56.82,0
+21700119,"2017-11-03","Little Caesars Arena",58.1,0.0013
+21700120,"2017-11-03","Amway Center",74.57,0
+21700121,"2017-11-03","Wells Fargo Arena",80.56,0
+21700122,"2017-11-03","Capital Center",67.86,0
+21700123,"2017-11-03","State Farm Arena",69.14,0
+21700124,"2017-11-03","Madison Square Garden",66.48,0
+21700125,"2017-11-03","American Airlines Center",89.76,0
+21700126,"2017-11-03","At&t Center",84.37,0
+21700127,"2017-11-03","Pepsi Center",47.67,0
+21700128,"2017-11-03","Vivint Smart Home Arena",65.5,0
+21700129,"2017-11-03","Chesapeake Energy Arena",66.76,0
+21700130,"2017-11-03","Staples Center",64.76,0
+21700131,"2017-11-04","Staples Center",68.71,0
+21700132,"2017-11-04","Little Caesars Arena",44.91,0
+21700133,"2017-11-04","United Center",45.94,0
+21700134,"2017-11-04","Target Center",31.21,0.0006
+21700135,"2017-11-04","Pepsi Center",56.95,0
+21700136,"2017-11-05","Quicken Loans Arena",56.81,0
+21700137,"2017-11-05","Staples Center",70.08,0
+21700138,"2017-11-05","Amway Center",75.7,0
+21700139,"2017-11-05","Scotiabank Arena",42.81,0
+21700140,"2017-11-05","Toyota Center",81.61,0
+21700141,"2017-11-05","At&t Center",82.67,0
+21700142,"2017-11-05","Madison Square Garden",51.27,0
+21700143,"2017-11-05","Target Center",40.8,0.0002
+21700144,"2017-11-05","Moda Center",46.13,0.0008
+21700145,"2017-11-05","Staples Center",70.08,0
+21700146,"2017-11-06","State Farm Arena",69.22,0
+21700147,"2017-11-06","Talking Stick Resort Arena",78.69,0
+21700148,"2017-11-06","Oracle Arena",59.64,0
+21700149,"2017-11-07","Quicken Loans Arena",44.53,0
+21700150,"2017-11-07","Bankers Life Fieldhouse",48.78,0
+21700151,"2017-11-07","Capital Center",66.54,0.0037
+21700152,"2017-11-07","Madison Square Garden",60.05,0.0003
+21700153,"2017-11-07","Scotiabank Arena",42.85,0
+21700154,"2017-11-07","At&t Center",86.84,0
+21700155,"2017-11-07","Pepsi Center",40.72,0
+21700156,"2017-11-07","Vivint Smart Home Arena",46.16,0
+21700157,"2017-11-07","Moda Center",48.37,0
+21700158,"2017-11-07","Golden 1 Center",63.22,0
+21700159,"2017-11-08","Little Caesars Arena",44.28,0
+21700160,"2017-11-08","Amway Center",77.07,0
+21700161,"2017-11-08","Td Garden",44.7,0
+21700162,"2017-11-08","Talking Stick Resort Arena",79.69,0
+21700163,"2017-11-08","Oracle Arena",64.69,0
+21700164,"2017-11-09","Capital Center",46.61,0
+21700165,"2017-11-09","Scotiabank Arena",43.19,0
+21700166,"2017-11-09","Toyota Center",57.41,0.0002
+21700167,"2017-11-09","Golden 1 Center",62.94,0
+21700168,"2017-11-09","Pepsi Center",52.02,0.0004
+21700169,"2017-11-10","Little Caesars Arena",38.85,0
+21700170,"2017-11-10","Td Garden",43.82,0
+21700171,"2017-11-10","United Center",35.09,0
+21700172,"2017-11-10","Chesapeake Energy Arena",55.97,0
+21700173,"2017-11-10","At&t Center",59.98,0
+21700174,"2017-11-10","Talking Stick Resort Arena",85.02,0
+21700175,"2017-11-10","Vivint Smart Home Arena",56.56,0
+21700176,"2017-11-10","Moda Center",52.46,0.0302
+21700177,"2017-11-11","Capital Center",36.05,0
+21700178,"2017-11-11","Smoothie King Center",65.37,0
+21700179,"2017-11-11","Madison Square Garden",29.72,0
+21700180,"2017-11-11","Toyota Center",66.52,0
+21700181,"2017-11-11","American Airlines Center",63.12,0
+21700182,"2017-11-11","Fiserv Forum",29.48,0
+21700183,"2017-11-11","At&t Center",61.39,0
+21700184,"2017-11-11","Oracle Arena",62.67,0.0009
+21700185,"2017-11-11","Pepsi Center",56.55,0
+21700186,"2017-11-11","Talking Stick Resort Arena",84.79,0
+21700187,"2017-11-11","Vivint Smart Home Arena",51.2,0
+21700188,"2017-11-12","Td Garden",29.31,0
+21700189,"2017-11-12","Little Caesars Arena",34.39,0
+21700190,"2017-11-12","Bankers Life Fieldhouse",38.75,0.0002
+21700191,"2017-11-12","Chesapeake Energy Arena",58.29,0
+21700192,"2017-11-13","Capital Center",43.01,0
+21700193,"2017-11-13","Madison Square Garden",41.55,0
+21700194,"2017-11-13","Fiserv Forum",37.14,0.0003
+21700195,"2017-11-13","Smoothie King Center",68.67,0
+21700196,"2017-11-13","Talking Stick Resort Arena",85.75,0
+21700197,"2017-11-13","Vivint Smart Home Arena",53.65,0
+21700198,"2017-11-13","Moda Center",56.23,0.0003
+21700199,"2017-11-13","Oracle Arena",64.27,0
+21700200,"2017-11-13","Staples Center",68.68,0
+21700201,"2017-11-14","Barclays Center",43.86,0.0003
+21700202,"2017-11-14","Toyota Center",73.77,0
+21700203,"2017-11-14","American Airlines Center",64.93,0
+21700204,"2017-11-15","State Farm Arena",53.43,0
+21700205,"2017-11-15","American Airlines Center",75.19,0
+21700206,"2017-11-15","Madison Square Garden",43.38,0
+21700207,"2017-11-15","Spectrum Center",49.81,0
+21700208,"2017-11-15","Fedex Forum",59.15,0
+21700209,"2017-11-15","Fiserv Forum",45.33,0
+21700210,"2017-11-15","Target Center",43.44,0
+21700211,"2017-11-15","Smoothie King Center",67.14,0
+21700212,"2017-11-15","Chesapeake Energy Arena",70.31,0
+21700213,"2017-11-15","Moda Center",55.82,0
+21700214,"2017-11-15","Staples Center",76.29,0
+21700215,"2017-11-16","Td Garden",36.09,0
+21700216,"2017-11-16","Talking Stick Resort Arena",84.01,0
+21700217,"2017-11-17","Bankers Life Fieldhouse",36.98,0
+21700218,"2017-11-17","Capital Center",51.03,0
+21700219,"2017-11-17","Barclays Center",48.84,0
+21700220,"2017-11-17","Quicken Loans Arena",41.07,0
+21700221,"2017-11-17","Scotiabank Arena",38.55,0
+21700222,"2017-11-17","United Center",36.72,0
+21700223,"2017-11-17","At&t Center",81.47,0
+21700224,"2017-11-17","American Airlines Center",72.55,0
+21700225,"2017-11-17","Golden 1 Center",56.72,0.0178
+21700226,"2017-11-17","Pepsi Center",70.3,0
+21700227,"2017-11-17","Staples Center",76.21,0
+21700228,"2017-11-18","Spectrum Center",51.01,0
+21700229,"2017-11-18","Amway Center",69.46,0
+21700230,"2017-11-18","State Farm Arena",58.55,0
+21700231,"2017-11-18","Wells Fargo Arena",78.37,0
+21700232,"2017-11-18","Fedex Forum",69.63,0
+21700233,"2017-11-18","American Airlines Center",80.69,0
+21700234,"2017-11-18","Moda Center",49.8,0.0041
+21700235,"2017-11-19","American Airlines Center",59,0
+21700236,"2017-11-19","Barclays Center",48.07,0.0293
+21700237,"2017-11-19","Scotiabank Arena",46.1,0.0891
+21700238,"2017-11-19","Target Center",29.37,0
+21700239,"2017-11-19","Talking Stick Resort Arena",78.34,0
+21700240,"2017-11-19","Staples Center",75.6,0
+21700241,"2017-11-20","Spectrum Center",48.35,0
+21700242,"2017-11-20","Little Caesars Arena",32.92,0
+21700243,"2017-11-20","Amway Center",70.76,0
+21700244,"2017-11-20","Wells Fargo Arena",81.02,0
+21700245,"2017-11-20","Madison Square Garden",45.5,0
+21700246,"2017-11-20","Fedex Forum",45.9,0
+21700247,"2017-11-20","Fiserv Forum",30.53,0
+21700248,"2017-11-20","Smoothie King Center",58.98,0
+21700249,"2017-11-20","American Airlines Center",59.51,0
+21700250,"2017-11-20","At&t Center",61.78,0
+21700251,"2017-11-20","Golden 1 Center",61.22,0
+21700252,"2017-11-21","Staples Center",74.12,0
+21700253,"2017-11-22","Spectrum Center",57.21,0
+21700254,"2017-11-22","Quicken Loans Arena",51.2,0
+21700255,"2017-11-22","Wells Fargo Arena",77.85,0
+21700256,"2017-11-22","State Farm Arena",61.66,0
+21700257,"2017-11-22","American Airlines Center",65.4,0
+21700258,"2017-11-22","Madison Square Garden",51.41,0
+21700259,"2017-11-22","Toyota Center",73.15,0
+21700260,"2017-11-22","Fedex Forum",56.48,0
+21700261,"2017-11-22","Target Center",26.19,0
+21700262,"2017-11-22","Smoothie King Center",65.79,0
+21700263,"2017-11-22","Chesapeake Energy Arena",57.28,0
+21700264,"2017-11-22","Talking Stick Resort Arena",78.24,0
+21700265,"2017-11-22","Vivint Smart Home Arena",59.02,0
+21700266,"2017-11-22","Golden 1 Center",64.15,0
+21700267,"2017-11-24","Barclays Center",38.35,0
+21700268,"2017-11-24","State Farm Arena",53.09,0
+21700269,"2017-11-24","Td Garden",33.83,0
+21700270,"2017-11-24","Quicken Loans Arena",38.35,0
+21700271,"2017-11-24","Bankers Life Fieldhouse",41.37,0
+21700272,"2017-11-24","Target Center",41.46,0
+21700273,"2017-11-24","Chesapeake Energy Arena",66.14,0
+21700274,"2017-11-24","Pepsi Center",64.12,0
+21700275,"2017-11-24","Talking Stick Resort Arena",87.51,0
+21700276,"2017-11-24","Oracle Arena",67.19,0
+21700277,"2017-11-25","Spectrum Center",49.69,0
+21700278,"2017-11-25","Wells Fargo Arena",85.52,0
+21700279,"2017-11-25","Capital Center",46.68,0
+21700280,"2017-11-25","State Farm Arena",54.28,0
+21700281,"2017-11-25","Bankers Life Fieldhouse",53.97,0
+21700282,"2017-11-25","Toyota Center",68.34,0
+21700283,"2017-11-25","American Airlines Center",72.83,0
+21700284,"2017-11-25","Oracle Arena",70.31,0
+21700285,"2017-11-25","Vivint Smart Home Arena",55.87,0
+21700286,"2017-11-25","Golden 1 Center",67.46,0
+21700287,"2017-11-26","United Center",45.58,0
+21700288,"2017-11-26","Target Center",35.5,0
+21700289,"2017-11-26","Fedex Forum",59.16,0
+21700290,"2017-11-27","Bankers Life Fieldhouse",44.66,0
+21700291,"2017-11-27","Wells Fargo Arena",88.29,0
+21700292,"2017-11-27","Td Garden",38.27,0
+21700293,"2017-11-27","Madison Square Garden",42.06,0
+21700294,"2017-11-27","Toyota Center",71.52,0
+21700295,"2017-11-27","At&t Center",75.81,0
+21700296,"2017-11-27","Oracle Arena",61.25,0.0282
+21700297,"2017-11-27","Staples Center",70.24,0
+21700298,"2017-11-28","Quicken Loans Arena",45.08,0
+21700299,"2017-11-28","United Center",52.11,0
+21700300,"2017-11-28","Target Center",56.81,0
+21700301,"2017-11-28","Vivint Smart Home Arena",41.47,0.0287
+21700302,"2017-11-28","Golden 1 Center",58.97,0
+21700303,"2017-11-29","Little Caesars Arena",59.97,0
+21700304,"2017-11-29","Amway Center",73.56,0
+21700305,"2017-11-29","Wells Fargo Arena",73.32,0
+21700306,"2017-11-29","Madison Square Garden",49.57,0
+21700307,"2017-11-29","Scotiabank Arena",56.7,0
+21700308,"2017-11-29","Toyota Center",72.12,0
+21700309,"2017-11-29","Smoothie King Center",67.27,0
+21700310,"2017-11-29","American Airlines Center",75.12,0
+21700311,"2017-11-29","At&t Center",77,0
+21700312,"2017-11-29","Staples Center",74.23,0
+21700313,"2017-11-30","State Farm Arena",58.98,0
+21700314,"2017-11-30","Td Garden",46.02,0
+21700315,"2017-11-30","Pepsi Center",61.16,0
+21700316,"2017-11-30","Moda Center",50.2,0
+21700317,"2017-11-30","Staples Center",72.82,0
+21700318,"2017-12-01","Amway Center",71.38,0
+21700319,"2017-12-01","Scotiabank Arena",43.55,0
+21700320,"2017-12-01","Capital Center",52.26,0
+21700321,"2017-12-01","American Airlines Center",64.07,0
+21700322,"2017-12-01","United Center",48.76,0
+21700323,"2017-12-01","Fedex Forum",59.33,0
+21700324,"2017-12-01","Chesapeake Energy Arena",54.67,0
+21700325,"2017-12-01","Vivint Smart Home Arena",47.38,0
+21700326,"2017-12-02","Td Garden",44.5,0
+21700327,"2017-12-02","American Airlines Center",68.98,0
+21700328,"2017-12-02","Barclays Center",46.01,0
+21700329,"2017-12-02","Quicken Loans Arena",39.11,0
+21700330,"2017-12-02","Wells Fargo Arena",76.07,0
+21700331,"2017-12-02","Fiserv Forum",45.59,0
+21700332,"2017-12-02","Pepsi Center",55.13,0
+21700333,"2017-12-02","Moda Center",48.67,0
+21700334,"2017-12-03","Madison Square Garden",44.07,0
+21700335,"2017-12-03","American Airlines Center",74.59,0
+21700336,"2017-12-03","Target Center",41.52,0
+21700337,"2017-12-03","Chesapeake Energy Arena",64.66,0
+21700338,"2017-12-03","Staples Center",74.13,0
+21700339,"2017-12-04","Spectrum Center",55.95,0
+21700340,"2017-12-04","Bankers Life Fieldhouse",50.05,0
+21700341,"2017-12-04","Wells Fargo Arena",79.65,0
+21700342,"2017-12-04","State Farm Arena",60.8,0
+21700343,"2017-12-04","Td Garden",39.9,0
+21700344,"2017-12-04","United Center",52.38,0
+21700345,"2017-12-04","Fedex Forum",64.58,0
+21700346,"2017-12-04","Smoothie King Center",65.92,0
+21700347,"2017-12-04","American Airlines Center",71.86,0
+21700348,"2017-12-04","At&t Center",76.72,0
+21700349,"2017-12-04","Vivint Smart Home Arena",37.49,0.0002
+21700350,"2017-12-05","Scotiabank Arena",45.16,0
+21700351,"2017-12-05","Chesapeake Energy Arena",63.11,0
+21700352,"2017-12-05","Moda Center",45.4,0
+21700353,"2017-12-06","Quicken Loans Arena",38.51,0
+21700354,"2017-12-06","Bankers Life Fieldhouse",34.35,0
+21700355,"2017-12-06","Amway Center",74.73,0
+21700356,"2017-12-06","Td Garden",50.97,0.0027
+21700357,"2017-12-06","Madison Square Garden",58.63,0.0027
+21700358,"2017-12-06","Spectrum Center",64.44,0
+21700359,"2017-12-06","Fiserv Forum",28.51,0
+21700360,"2017-12-06","Smoothie King Center",72.88,0.0138
+21700361,"2017-12-06","At&t Center",56.39,0
+21700362,"2017-12-06","Staples Center",69.01,0
+21700363,"2017-12-07","Wells Fargo Arena",74.49,0
+21700364,"2017-12-07","Talking Stick Resort Arena",74.74,0
+21700365,"2017-12-07","Barclays Center",41.54,0
+21700366,"2017-12-07","Vivint Smart Home Arena",32.77,0
+21700367,"2017-12-08","Spectrum Center",46,0
+21700368,"2017-12-08","Little Caesars Arena",28.51,0
+21700369,"2017-12-08","Bankers Life Fieldhouse",25.32,0
+21700370,"2017-12-08","Amway Center",67.5,0
+21700371,"2017-12-08","Fedex Forum",35.54,0
+21700372,"2017-12-08","Fiserv Forum",23.02,0
+21700373,"2017-12-08","Smoothie King Center",44.88,0.0263
+21700374,"2017-12-08","At&t Center",38.71,0.0054
+21700375,"2017-12-09","Staples Center",76.36,0
+21700376,"2017-12-09","Barclays Center",36.44,0
+21700377,"2017-12-09","Spectrum Center",33.85,0.0472
+21700378,"2017-12-09","State Farm Arena",32.61,0.0129
+21700379,"2017-12-09","Quicken Loans Arena",28.72,0
+21700380,"2017-12-09","United Center",33.52,0
+21700381,"2017-12-09","Fiserv Forum",29.26,0
+21700382,"2017-12-09","Fedex Forum",35.98,0
+21700383,"2017-12-09","Talking Stick Resort Arena",65.82,0
+21700384,"2017-12-09","Moda Center",44.02,0
+21700385,"2017-12-10","Golden 1 Center",61.42,0
+21700386,"2017-12-10","Little Caesars Arena",28.13,0
+21700387,"2017-12-10","Bankers Life Fieldhouse",28.99,0
+21700388,"2017-12-10","Target Center",20.83,0
+21700389,"2017-12-10","Smoothie King Center",47.76,0
+21700390,"2017-12-10","Madison Square Garden",30.95,0.0016
+21700391,"2017-12-11","United Center",30.8,0
+21700392,"2017-12-11","Toyota Center",60.84,0
+21700393,"2017-12-11","Fedex Forum",50.41,0
+21700394,"2017-12-11","Chesapeake Energy Arena",63.54,0
+21700395,"2017-12-11","Oracle Arena",65.35,0
+21700396,"2017-12-11","Staples Center",81.08,0
+21700397,"2017-12-12","Quicken Loans Arena",30.26,0.0024
+21700398,"2017-12-12","Little Caesars Arena",29.79,0
+21700399,"2017-12-12","Madison Square Garden",37.28,0.0003
+21700400,"2017-12-12","Barclays Center",37.28,0.0003
+21700401,"2017-12-12","Target Center",28.14,0.0003
+21700402,"2017-12-12","American Airlines Center",73.98,0
+21700403,"2017-12-12","Golden 1 Center",62.33,0
+21700404,"2017-12-13","Bankers Life Fieldhouse",23.48,0
+21700405,"2017-12-13","Amway Center",66.73,0
+21700406,"2017-12-13","Capital Center",37.84,0
+21700407,"2017-12-13","Td Garden",41.26,0.0056
+21700408,"2017-12-13","American Airlines Center",54.52,0
+21700409,"2017-12-13","United Center",19.22,0
+21700410,"2017-12-13","Smoothie King Center",57.33,0
+21700411,"2017-12-13","Talking Stick Resort Arena",73.98,0
+21700412,"2017-12-13","Toyota Center",59.73,0
+21700413,"2017-12-14","State Farm Arena",44.91,0
+21700414,"2017-12-14","Barclays Center",28.32,0
+21700415,"2017-12-14","Quicken Loans Arena",21.88,0
+21700416,"2017-12-14","Target Center",23.78,0
+21700417,"2017-12-14","Oracle Arena",60.81,0
+21700418,"2017-12-15","Spectrum Center",47.92,0
+21700419,"2017-12-15","Bankers Life Fieldhouse",27.89,0
+21700420,"2017-12-15","Amway Center",65.95,0
+21700421,"2017-12-15","Wells Fargo Arena",73.02,0
+21700422,"2017-12-15","Capital Center",34.41,0
+21700423,"2017-12-15","Td Garden",24.18,0
+21700424,"2017-12-15","Scotiabank Arena",18.57,0
+21700425,"2017-12-15","Fedex Forum",42.44,0
+21700426,"2017-12-15","Fiserv Forum",19.91,0
+21700427,"2017-12-15","Pepsi Center",35.35,0.0002
+21700428,"2017-12-15","Toyota Center",61.64,0
+21700429,"2017-12-16","Spectrum Center",41.72,0
+21700430,"2017-12-16","Quicken Loans Arena",26.88,0.0015
+21700431,"2017-12-16","Madison Square Garden",23.87,0.0027
+21700432,"2017-12-16","American Airlines Center",53.09,0
+21700433,"2017-12-16","Toyota Center",52.9,0
+21700434,"2017-12-16","Target Center",26.85,0
+21700435,"2017-12-16","At&t Center",55.86,0
+21700436,"2017-12-16","Fedex Forum",43.96,0
+21700437,"2017-12-17","Scotiabank Arena",20.31,0
+21700438,"2017-12-17","Little Caesars Arena",27.57,0
+21700439,"2017-12-17","Barclays Center",37.74,0.0017
+21700440,"2017-12-17","Capital Center",40.92,0
+21700441,"2017-12-18","Spectrum Center",50.15,0
+21700442,"2017-12-18","Bankers Life Fieldhouse",41.78,0
+21700443,"2017-12-18","State Farm Arena",44.13,0.0018
+21700444,"2017-12-18","United Center",41.88,0
+21700445,"2017-12-18","Toyota Center",61.88,0
+21700446,"2017-12-18","Target Center",27.57,0
+21700447,"2017-12-18","Chesapeake Energy Arena",45.7,0
+21700448,"2017-12-18","American Airlines Center",50.75,0
+21700449,"2017-12-18","At&t Center",53.11,0
+21700450,"2017-12-18","Staples Center",70.52,0
+21700451,"2017-12-19","Wells Fargo Arena",65.79,0
+21700452,"2017-12-19","Capital Center",51.39,0
+21700453,"2017-12-19","Fiserv Forum",35.87,0.0003
+21700454,"2017-12-20","Spectrum Center",62.07,0
+21700455,"2017-12-20","State Farm Arena",58.78,0
+21700456,"2017-12-20","Td Garden",45.34,0.0004
+21700457,"2017-12-20","Barclays Center",52.53,0
+21700458,"2017-12-20","United Center",44.96,0
+21700459,"2017-12-20","Toyota Center",75.7,0
+21700460,"2017-12-20","Chesapeake Energy Arena",54.62,0.0175
+21700461,"2017-12-20","American Airlines Center",59.94,0.0696
+21700462,"2017-12-20","Pepsi Center",50.14,0
+21700463,"2017-12-20","Moda Center",44.34,0.0421
+21700464,"2017-12-20","Oracle Arena",57.56,0
+21700465,"2017-12-20","Staples Center",67.86,0
+21700466,"2017-12-21","Quicken Loans Arena",30.63,0
+21700467,"2017-12-21","Wells Fargo Arena",67.24,0
+21700468,"2017-12-21","Madison Square Garden",39.21,0
+21700469,"2017-12-21","Talking Stick Resort Arena",67.4,0
+21700470,"2017-12-21","Vivint Smart Home Arena",31.91,0
+21700471,"2017-12-22","Little Caesars Arena",33.85,0
+21700472,"2017-12-22","Amway Center",74.69,0
+21700473,"2017-12-22","Barclays Center",37.17,0
+21700474,"2017-12-22","American Airlines Center",71.4,0
+21700475,"2017-12-22","Toyota Center",75.54,0
+21700476,"2017-12-22","Fiserv Forum",34.52,0
+21700477,"2017-12-22","Chesapeake Energy Arena",52.18,0
+21700478,"2017-12-22","Moda Center",36.8,0
+21700479,"2017-12-22","Oracle Arena",56.61,0
+21700480,"2017-12-23","Scotiabank Arena",24.2,0
+21700481,"2017-12-23","Spectrum Center",56.43,0
+21700482,"2017-12-23","Bankers Life Fieldhouse",45.01,0
+21700483,"2017-12-23","Capital Center",49.88,0
+21700484,"2017-12-23","State Farm Arena",54.45,0.0008
+21700485,"2017-12-23","Td Garden",29.21,0.0005
+21700486,"2017-12-23","American Airlines Center",37.09,0.0549
+21700487,"2017-12-23","Fedex Forum",60.94,0.257
+21700488,"2017-12-23","Vivint Smart Home Arena",34.92,0.0002
+21700489,"2017-12-23","Oracle Arena",53.57,0
+21700490,"2017-12-23","Talking Stick Resort Arena",58.12,0
+21700491,"2017-12-23","Staples Center",65.06,0
+21700492,"2017-12-23","Golden 1 Center",49.92,0
+21700493,"2017-12-25","Madison Square Garden",38.14,0
+21700494,"2017-12-25","Oracle Arena",54.12,0
+21700495,"2017-12-25","Td Garden",31.34,0
+21700496,"2017-12-25","Chesapeake Energy Arena",32.91,0
+21700497,"2017-12-25","Staples Center",69.82,0
+21700498,"2017-12-26","Little Caesars Arena",16.73,0
+21700499,"2017-12-26","American Airlines Center",45,0.0003
+21700500,"2017-12-26","American Airlines Center",45,0.0003
+21700501,"2017-12-26","Fiserv Forum",8.38,0
+21700502,"2017-12-26","At&t Center",50.32,0
+21700503,"2017-12-26","Pepsi Center",24.5,0
+21700504,"2017-12-26","Talking Stick Resort Arena",66.33,0
+21700505,"2017-12-26","Staples Center",66.7,0
+21700506,"2017-12-27","Spectrum Center",39.27,0
+21700507,"2017-12-27","Bankers Life Fieldhouse",9.59,0
+21700508,"2017-12-27","State Farm Arena",44.76,0
+21700509,"2017-12-27","United Center",3.82,0
+21700510,"2017-12-27","Target Center",-0.22,0
+21700511,"2017-12-27","Smoothie King Center",54.34,0
+21700512,"2017-12-27","Chesapeake Energy Arena",28.85,0
+21700513,"2017-12-27","Golden 1 Center",61.08,0
+21700514,"2017-12-27","Oracle Arena",60.16,0
+21700515,"2017-12-27","Staples Center",67.93,0
+21700516,"2017-12-28","Amway Center",66.05,0
+21700517,"2017-12-28","Td Garden",15.23,0
+21700518,"2017-12-28","Fiserv Forum",3.29,0
+21700519,"2017-12-28","At&t Center",39.91,0
+21700520,"2017-12-28","Moda Center",37.42,0.008
+21700521,"2017-12-29","Capital Center",20.07,0
+21700522,"2017-12-29","Scotiabank Arena",7.86,0
+21700523,"2017-12-29","American Airlines Center",40.4,0
+21700524,"2017-12-29","United Center",11.9,0
+21700525,"2017-12-29","Smoothie King Center",44.38,0
+21700526,"2017-12-29","Chesapeake Energy Arena",37.35,0
+21700527,"2017-12-29","Golden 1 Center",60.33,0
+21700528,"2017-12-29","Oracle Arena",61.8,0
+21700529,"2017-12-29","Staples Center",80.21,0
+21700530,"2017-12-30","Little Caesars Arena",18.01,0
+21700531,"2017-12-30","Amway Center",52.12,0
+21700532,"2017-12-30","Smoothie King Center",51.02,0
+21700533,"2017-12-30","State Farm Arena",45.9,0
+21700534,"2017-12-30","Vivint Smart Home Arena",51.86,0
+21700535,"2017-12-30","Oracle Arena",60.87,0
+21700536,"2017-12-30","Pepsi Center",59.51,0
+21700537,"2017-12-31","Capital Center",29.78,0
+21700538,"2017-12-31","Bankers Life Fieldhouse",5.12,0
+21700539,"2017-12-31","Td Garden",15.68,0
+21700540,"2017-12-31","Toyota Center",57.01,0
+21700541,"2017-12-31","Chesapeake Energy Arena",19.42,0
+21700542,"2017-12-31","Staples Center",71.09,0
+21700543,"2017-12-31","Golden 1 Center",60.08,0
+21700544,"2017-12-31","Talking Stick Resort Arena",76.72,0
+21700545,"2018-01-01","Barclays Center",12.53,0
+21700546,"2018-01-01","Scotiabank Arena",5.06,0
+21700547,"2018-01-01","United Center",10.11,0
+21700548,"2018-01-01","Target Center",-6.73,0
+21700549,"2018-01-02","Quicken Loans Arena",10.15,0
+21700550,"2018-01-02","Madison Square Garden",16.97,0
+21700551,"2018-01-02","Talking Stick Resort Arena",74.34,0
+21700552,"2018-01-02","Golden 1 Center",64.4,0
+21700553,"2018-01-02","Staples Center",69.25,0
+21700554,"2018-01-03","Amway Center",49.68,0
+21700555,"2018-01-03","Wells Fargo Arena",75.56,0
+21700556,"2018-01-03","Capital Center",21.08,0
+21700557,"2018-01-03","Barclays Center",23.04,0
+21700558,"2018-01-03","American Airlines Center",25.61,0
+21700559,"2018-01-03","Td Garden",15.19,0
+21700560,"2018-01-03","United Center",2.97,0
+21700561,"2018-01-03","Fiserv Forum",7.62,0
+21700562,"2018-01-03","American Airlines Center",25.61,0
+21700563,"2018-01-03","Pepsi Center",43.41,0
+21700564,"2018-01-03","Vivint Smart Home Arena",41.4,0
+21700565,"2018-01-03","Staples Center",75.08,0
+21700566,"2018-01-04","Toyota Center",45.36,0
+21700567,"2018-01-04","Staples Center",74.23,0
+21700568,"2018-01-05","American Airlines Center",47.81,0
+21700569,"2018-01-05","Wells Fargo Arena",77.54,0
+21700570,"2018-01-05","Td Garden",26.71,0.0042
+21700571,"2018-01-05","Fiserv Forum",7.01,0
+21700572,"2018-01-05","American Airlines Center",47.81,0
+21700573,"2018-01-05","At&t Center",54.95,0
+21700574,"2018-01-05","Pepsi Center",50.39,0
+21700575,"2018-01-05","Fedex Forum",25.98,0
+21700576,"2018-01-05","Moda Center",45.35,0
+21700577,"2018-01-05","Staples Center",74.53,0
+21700578,"2018-01-06","Staples Center",70.36,0
+21700579,"2018-01-06","Barclays Center",14.57,0
+21700580,"2018-01-06","Little Caesars Arena",4.07,0
+21700581,"2018-01-06","Bankers Life Fieldhouse",5.94,0
+21700582,"2018-01-06","Amway Center",47.52,0
+21700583,"2018-01-06","Capital Center",15.22,0
+21700584,"2018-01-06","Target Center",0.83,0
+21700585,"2018-01-06","Golden 1 Center",60.49,0.0267
+21700586,"2018-01-07","American Airlines Center",61.04,0
+21700587,"2018-01-07","American Airlines Center",61.04,0
+21700588,"2018-01-07","Talking Stick Resort Arena",73.84,0
+21700589,"2018-01-07","Moda Center",48.64,0.0003
+21700590,"2018-01-07","Staples Center",68.55,0
+21700591,"2018-01-08","Bankers Life Fieldhouse",32.54,0
+21700592,"2018-01-08","Barclays Center",16.87,0
+21700593,"2018-01-08","United Center",29.04,0
+21700594,"2018-01-08","Target Center",27.45,0
+21700595,"2018-01-08","Smoothie King Center",60.62,0
+21700596,"2018-01-08","Golden 1 Center",51.15,0
+21700597,"2018-01-08","Oracle Arena",52.84,0
+21700598,"2018-01-08","Staples Center",71.38,0
+21700599,"2018-01-09","Scotiabank Arena",36.54,0.0047
+21700600,"2018-01-09","Chesapeake Energy Arena",53.37,0
+21700601,"2018-01-09","American Airlines Center",58.4,0
+21700602,"2018-01-09","Staples Center",62.06,0.0424
+21700603,"2018-01-10","Spectrum Center",56.05,0
+21700604,"2018-01-10","Bankers Life Fieldhouse",34.2,0
+21700605,"2018-01-10","Capital Center",40.76,0
+21700606,"2018-01-10","Barclays Center",38.55,0
+21700607,"2018-01-10","Madison Square Garden",38.58,0
+21700608,"2018-01-10","Toyota Center",53.82,0
+21700609,"2018-01-10","Fedex Forum",47.67,0
+21700610,"2018-01-10","Fiserv Forum",33.24,0
+21700611,"2018-01-10","Target Center",39.99,0.0004
+21700612,"2018-01-10","Pepsi Center",64.84,0
+21700613,"2018-01-10","Oracle Arena",56.66,0.001
+21700614,"2018-01-11","Wells Fargo Arena",62.45,0
+21700615,"2018-01-11","Scotiabank Arena",35.01,0.008
+21700616,"2018-01-11","Golden 1 Center",56.49,0
+21700617,"2018-01-11","Staples Center",63.79,0.0004
+21700618,"2018-01-12","Spectrum Center",61.26,0
+21700619,"2018-01-12","Bankers Life Fieldhouse",56.99,0.0139
+21700620,"2018-01-12","Capital Center",58.29,0
+21700621,"2018-01-12","State Farm Arena",57.67,0.0036
+21700622,"2018-01-12","Fiserv Forum",44.37,0.0158
+21700623,"2018-01-12","Target Center",7.97,0
+21700624,"2018-01-12","Smoothie King Center",69.09,0.0008
+21700625,"2018-01-12","Pepsi Center",41.58,0
+21700626,"2018-01-12","Talking Stick Resort Arena",68.94,0
+21700627,"2018-01-13","American Airlines Center",42.53,0
+21700628,"2018-01-13","Staples Center",73.11,0
+21700629,"2018-01-13","Spectrum Center",57.05,0.1399
+21700630,"2018-01-13","Capital Center",64.63,0.0034
+21700631,"2018-01-13","Scotiabank Arena",17.65,0.0032
+21700632,"2018-01-13","United Center",20.95,0
+21700633,"2018-01-13","At&t Center",60.11,0
+21700634,"2018-01-14","American Airlines Center",44.68,0
+21700635,"2018-01-14","Madison Square Garden",25.65,0
+21700636,"2018-01-14","Talking Stick Resort Arena",78.38,0
+21700637,"2018-01-14","Target Center",2.25,0
+21700638,"2018-01-15","Little Caesars Arena",18.16,0
+21700639,"2018-01-15","Wells Fargo Arena",78.2,0
+21700640,"2018-01-15","Capital Center",23.12,0
+21700641,"2018-01-15","State Farm Arena",35.43,0
+21700642,"2018-01-15","Barclays Center",21.48,0
+21700643,"2018-01-15","Chesapeake Energy Arena",49.61,0
+21700644,"2018-01-15","United Center",19.73,0
+21700645,"2018-01-15","Fedex Forum",29.97,0.0015
+21700646,"2018-01-15","Quicken Loans Arena",14.77,0
+21700647,"2018-01-15","Vivint Smart Home Arena",48.39,0
+21700648,"2018-01-15","Staples Center",81.19,0
+21700649,"2018-01-16","Amway Center",54.61,0
+21700650,"2018-01-16","Td Garden",19.62,0
+21700651,"2018-01-16","Pepsi Center",19.39,0
+21700652,"2018-01-16","Moda Center",53.48,0
+21700653,"2018-01-17","Spectrum Center",44.38,0
+21700654,"2018-01-17","State Farm Arena",43.54,0
+21700655,"2018-01-17","Barclays Center",34.32,0
+21700656,"2018-01-17","Scotiabank Arena",24.87,0
+21700657,"2018-01-17","United Center",21.71,0
+21700658,"2018-01-17","Fedex Forum",13.26,0
+21700659,"2018-01-17","Fiserv Forum",19.88,0
+21700660,"2018-01-17","Chesapeake Energy Arena",18.49,0
+21700661,"2018-01-17","Golden 1 Center",58.53,0
+21700662,"2018-01-17","Staples Center",69.8,0
+21700663,"2018-01-18","Td Garden",32.44,0.0015
+21700664,"2018-01-18","Quicken Loans Arena",17.49,0
+21700665,"2018-01-18","Toyota Center",36.33,0.0045
+21700666,"2018-01-18","Moda Center",53.75,0
+21700667,"2018-01-19","Scotiabank Arena",23.95,0
+21700668,"2018-01-19","Barclays Center",29.45,0
+21700669,"2018-01-19","Little Caesars Arena",26.94,0
+21700670,"2018-01-19","Fedex Forum",33.93,0.0009
+21700671,"2018-01-19","Pepsi Center",63.39,0
+21700672,"2018-01-19","Vivint Smart Home Arena",53.31,0
+21700673,"2018-01-19","Staples Center",73.92,0
+21700674,"2018-01-20","Quicken Loans Arena",36.65,0.0004
+21700675,"2018-01-20","State Farm Arena",47.35,0
+21700676,"2018-01-20","Spectrum Center",46.82,0
+21700677,"2018-01-20","Smoothie King Center",52.06,0
+21700678,"2018-01-20","Wells Fargo Arena",75.84,0
+21700679,"2018-01-20","Toyota Center",52.22,0.0152
+21700680,"2018-01-20","Target Center",40.68,0
+21700681,"2018-01-20","Vivint Smart Home Arena",43.91,0.0009
+21700682,"2018-01-20","Moda Center",47.09,0.0003
+21700683,"2018-01-21","Td Garden",43.5,0.0003
+21700684,"2018-01-21","Staples Center",61.56,0
+21700685,"2018-01-21","Little Caesars Arena",39.47,0
+21700686,"2018-01-21","At&t Center",59.87,0
+21700687,"2018-01-22","Spectrum Center",61.56,0
+21700688,"2018-01-22","State Farm Arena",63.63,0
+21700689,"2018-01-22","Toyota Center",68.75,0.0007
+21700690,"2018-01-22","Fedex Forum",66.07,0
+21700691,"2018-01-22","Fiserv Forum",35.82,0.0041
+21700692,"2018-01-22","Smoothie King Center",65.61,0
+21700693,"2018-01-22","American Airlines Center",68.15,0.0374
+21700694,"2018-01-22","Pepsi Center",24.89,0.0004
+21700695,"2018-01-22","Staples Center",63.39,0
+21700696,"2018-01-23","Amway Center",74.11,0
+21700697,"2018-01-23","Chesapeake Energy Arena",46.91,0
+21700698,"2018-01-23","At&t Center",64.41,0
+21700699,"2018-01-23","Oracle Arena",56.4,0
+21700700,"2018-01-23","Staples Center",67.75,0
+21700701,"2018-01-24","Spectrum Center",56.54,0
+21700702,"2018-01-24","Little Caesars Arena",32.83,0
+21700703,"2018-01-24","Bankers Life Fieldhouse",33.27,0.0027
+21700704,"2018-01-24","Wells Fargo Arena",70.58,0
+21700705,"2018-01-24","State Farm Arena",51.18,0
+21700706,"2018-01-24","American Airlines Center",57.73,0
+21700707,"2018-01-24","Fedex Forum",43.83,0
+21700708,"2018-01-24","Moda Center",45.64,0.0424
+21700709,"2018-01-24","Staples Center",73.79,0
+21700710,"2018-01-25","American Airlines Center",62.78,0
+21700711,"2018-01-25","Chesapeake Energy Arena",58.84,0
+21700712,"2018-01-25","Pepsi Center",50.54,0.0003
+21700713,"2018-01-25","Oracle Arena",53.6,0.0297
+21700714,"2018-01-26","Spectrum Center",47.46,0
+21700715,"2018-01-26","Quicken Loans Arena",32.42,0
+21700716,"2018-01-26","Scotiabank Arena",26.3,0
+21700717,"2018-01-26","United Center",42.17,0
+21700718,"2018-01-26","Fedex Forum",57.48,0
+21700719,"2018-01-26","Fiserv Forum",33.69,0.005
+21700720,"2018-01-26","Smoothie King Center",56.26,0
+21700721,"2018-01-26","American Airlines Center",64.59,0
+21700722,"2018-01-26","At&t Center",58.78,0
+21700723,"2018-01-26","Talking Stick Resort Arena",75.19,0
+21700724,"2018-01-27","Little Caesars Arena",46.85,0
+21700725,"2018-01-27","Bankers Life Fieldhouse",53.45,0
+21700726,"2018-01-27","State Farm Arena",54.12,0
+21700727,"2018-01-27","American Airlines Center",64.3,0
+21700728,"2018-01-27","Oracle Arena",54.98,0
+21700729,"2018-01-27","Target Center",41.25,0
+21700730,"2018-01-27","Pepsi Center",36.47,0
+21700731,"2018-01-28","United Center",45.47,0
+21700732,"2018-01-28","Toyota Center",63.88,0.0088
+21700733,"2018-01-28","Smoothie King Center",61.44,0.0306
+21700734,"2018-01-28","Quicken Loans Arena",46.26,0.0546
+21700735,"2018-01-28","Scotiabank Arena",43.84,0
+21700736,"2018-01-28","Chesapeake Energy Arena",56.97,0
+21700737,"2018-01-28","At&t Center",68,0
+21700738,"2018-01-29","Bankers Life Fieldhouse",47.7,0
+21700739,"2018-01-29","State Farm Arena",54.24,0.0248
+21700740,"2018-01-29","Fedex Forum",55.18,0
+21700741,"2018-01-29","Fiserv Forum",28.82,0
+21700742,"2018-01-29","American Airlines Center",64.27,0
+21700743,"2018-01-29","Pepsi Center",44.72,0
+21700744,"2018-01-30","Capital Center",43.58,0
+21700745,"2018-01-30","Madison Square Garden",41.55,0
+21700746,"2018-01-30","Scotiabank Arena",25.39,0
+21700747,"2018-01-30","Little Caesars Arena",21.1,0
+21700748,"2018-01-30","Toyota Center",63.39,0
+21700749,"2018-01-30","Smoothie King Center",62.33,0
+21700750,"2018-01-30","At&t Center",67.79,0
+21700751,"2018-01-30","Vivint Smart Home Arena",51.95,0
+21700752,"2018-01-30","Staples Center",85.67,0
+21700753,"2018-01-31","Bankers Life Fieldhouse",30.78,0
+21700754,"2018-01-31","Amway Center",53.12,0
+21700755,"2018-01-31","State Farm Arena",41.14,0
+21700756,"2018-01-31","Barclays Center",30.2,0.0003
+21700757,"2018-01-31","Quicken Loans Arena",20.4,0
+21700758,"2018-01-31","Td Garden",29.71,0
+21700759,"2018-01-31","Moda Center",48.61,0.0034
+21700760,"2018-01-31","Talking Stick Resort Arena",81.07,0
+21700761,"2018-02-01","Little Caesars Arena",40.17,0.0003
+21700762,"2018-02-01","Capital Center",34.03,0
+21700763,"2018-02-01","Target Center",28.14,0
+21700764,"2018-02-01","At&t Center",69.97,0
+21700765,"2018-02-01","Pepsi Center",44.6,0
+21700766,"2018-02-02","Spectrum Center",55.08,0
+21700767,"2018-02-02","Td Garden",41.48,0
+21700768,"2018-02-02","Barclays Center",41.98,0
+21700769,"2018-02-02","Scotiabank Arena",24.23,0
+21700770,"2018-02-02","Wells Fargo Arena",79.8,0
+21700771,"2018-02-02","Fiserv Forum",9.08,0
+21700772,"2018-02-02","Chesapeake Energy Arena",44.64,0
+21700773,"2018-02-02","Talking Stick Resort Arena",79.89,0
+21700774,"2018-02-02","Golden 1 Center",68.03,0
+21700775,"2018-02-03","Staples Center",81.99,0
+21700776,"2018-02-03","Little Caesars Arena",18.7,0
+21700777,"2018-02-03","Bankers Life Fieldhouse",20.58,0
+21700778,"2018-02-03","Amway Center",65.08,0
+21700779,"2018-02-03","Quicken Loans Arena",17.68,0
+21700780,"2018-02-03","Target Center",9.24,0
+21700781,"2018-02-03","At&t Center",57.43,0
+21700782,"2018-02-03","Pepsi Center",50.41,0
+21700783,"2018-02-03","Golden 1 Center",69.98,0
+21700784,"2018-02-04","Td Garden",24.7,0
+21700785,"2018-02-04","Barclays Center",29.16,0
+21700786,"2018-02-04","Madison Square Garden",29.2,0
+21700787,"2018-02-04","Scotiabank Arena",25.23,0
+21700788,"2018-02-04","Chesapeake Energy Arena",54.44,0
+21700789,"2018-02-04","Talking Stick Resort Arena",78.21,0
+21700790,"2018-02-05","Little Caesars Arena",20.88,0.0006
+21700791,"2018-02-05","Bankers Life Fieldhouse",25.45,0
+21700792,"2018-02-05","American Airlines Center",60.22,0
+21700793,"2018-02-05","Smoothie King Center",65.11,0
+21700794,"2018-02-05","Pepsi Center",29.35,0
+21700795,"2018-02-05","Golden 1 Center",71.87,0
+21700796,"2018-02-05","Staples Center",80.45,0
+21700797,"2018-02-06","Amway Center",65.89,0
+21700798,"2018-02-06","Scotiabank Arena",18.49,0
+21700799,"2018-02-06","State Farm Arena",48.78,0
+21700800,"2018-02-06","Barclays Center",29.26,0
+21700801,"2018-02-06","Madison Square Garden",29.11,0
+21700802,"2018-02-06","Wells Fargo Arena",79.87,0
+21700803,"2018-02-06","Oracle Arena",75.1,0
+21700804,"2018-02-06","Staples Center",77.11,0
+21700805,"2018-02-07","Little Caesars Arena",21.53,0
+21700806,"2018-02-07","American Airlines Center",35.66,0.0036
+21700807,"2018-02-07","Quicken Loans Arena",20.61,0
+21700808,"2018-02-07","Fedex Forum",39.91,0
+21700809,"2018-03-21","Smoothie King Center",63.68,0
+21700810,"2018-02-07","Talking Stick Resort Arena",78.71,0
+21700811,"2018-02-08","Amway Center",78.48,0
+21700812,"2018-02-08","Scotiabank Arena",22.06,0
+21700813,"2018-02-08","Capital Center",36.4,0.0348
+21700814,"2018-02-08","Moda Center",58.16,0
+21700815,"2018-02-08","Oracle Arena",71.03,0.0011
+21700816,"2018-02-08","Staples Center",81.76,0
+21700817,"2018-02-09","Little Caesars Arena",20.65,0
+21700818,"2018-02-09","Wells Fargo Arena",84.07,0
+21700819,"2018-02-09","State Farm Arena",54.32,0
+21700820,"2018-02-09","Td Garden",25.77,0
+21700821,"2018-02-09","American Airlines Center",58.96,0
+21700822,"2018-02-09","United Center",20.61,0
+21700823,"2018-02-09","Toyota Center",55.19,0
+21700824,"2018-02-09","Vivint Smart Home Arena",56.21,0
+21700825,"2018-02-09","Golden 1 Center",73.29,0
+21700826,"2018-02-10","Barclays Center",34.14,0
+21700827,"2018-02-10","Amway Center",76.55,0
+21700828,"2018-02-10","Wells Fargo Arena",81.51,0
+21700829,"2018-02-10","United Center",25.29,0
+21700830,"2018-02-10","American Airlines Center",66.58,0
+21700831,"2018-02-10","Oracle Arena",76.5,0
+21700832,"2018-02-10","Talking Stick Resort Arena",81.68,0
+21700833,"2018-02-11","Spectrum Center",55.81,0.0013
+21700834,"2018-02-11","State Farm Arena",60.83,0.0003
+21700835,"2018-02-11","Td Garden",48.31,0.0012
+21700836,"2018-02-11","Bankers Life Fieldhouse",28.38,0
+21700837,"2018-02-11","Toyota Center",69.08,0.0079
+21700838,"2018-02-11","Target Center",12.28,0
+21700839,"2018-02-11","Chesapeake Energy Arena",20.58,0
+21700840,"2018-02-11","Moda Center",50.13,0
+21700841,"2018-02-12","Little Caesars Arena",27.15,0
+21700842,"2018-02-12","Wells Fargo Arena",75.66,0
+21700843,"2018-02-12","Barclays Center",52.24,0.0232
+21700844,"2018-02-12","United Center",20.85,0
+21700845,"2018-02-12","Vivint Smart Home Arena",43.2,0
+21700846,"2018-02-12","Oracle Arena",55.09,0
+21700847,"2018-02-13","Scotiabank Arena",24.32,0
+21700848,"2018-02-13","Fiserv Forum",17.9,0
+21700849,"2018-02-13","Target Center",11.25,0
+21700850,"2018-02-13","Chesapeake Energy Arena",44.25,0
+21700851,"2018-02-13","American Airlines Center",46.26,0
+21700852,"2018-02-13","Pepsi Center",20.52,0
+21700853,"2018-02-14","Little Caesars Arena",26.38,0
+21700854,"2018-02-14","Amway Center",75.17,0.001
+21700855,"2018-02-14","Wells Fargo Arena",72.08,0
+21700856,"2018-02-14","Barclays Center",31.93,0
+21700857,"2018-02-14","Madison Square Garden",32.15,0
+21700858,"2018-02-14","Td Garden",28.85,0
+21700859,"2018-02-14","United Center",33,0.0048
+21700860,"2018-02-14","Toyota Center",52.74,0.0002
+21700861,"2018-02-14","Fedex Forum",51.12,0
+21700862,"2018-02-14","Smoothie King Center",68.23,0
+21700863,"2018-02-14","Vivint Smart Home Arena",43.61,0
+21700864,"2018-02-14","Moda Center",50.28,0
+21700865,"2018-02-15","Fiserv Forum",42.57,0.0038
+21700866,"2018-02-15","Target Center",40.52,0.0004
+21700867,"2018-02-22","Spectrum Center",75.06,0
+21700868,"2018-02-22","Amway Center",78.73,0
+21700869,"2018-02-22","Quicken Loans Arena",34.36,0.001
+21700870,"2018-02-22","United Center",29.3,0
+21700871,"2018-02-22","Golden 1 Center",55.53,0
+21700872,"2018-02-22","Oracle Arena",55.1,0
+21700873,"2018-02-23","Little Caesars Arena",37.37,0
+21700874,"2018-02-23","Bankers Life Fieldhouse",45.14,0
+21700875,"2018-02-23","Capital Center",46.41,0.0286
+21700876,"2018-02-23","Scotiabank Arena",33.43,0
+21700877,"2018-02-23","Toyota Center",70,0.007
+21700878,"2018-02-23","Fedex Forum",53.5,0
+21700879,"2018-02-23","Smoothie King Center",78.1,0
+21700880,"2018-02-23","Pepsi Center",26.06,0.0005
+21700881,"2018-02-23","Talking Stick Resort Arena",61.26,0
+21700882,"2018-02-23","Vivint Smart Home Arena",32.13,0.0006
+21700883,"2018-02-23","Staples Center",58.56,0
+21700884,"2018-02-24","Wells Fargo Arena",58.48,0
+21700885,"2018-02-24","American Airlines Center",51.61,0.0003
+21700886,"2018-02-24","Madison Square Garden",38.89,0.0138
+21700887,"2018-02-24","Oracle Arena",53.63,0
+21700888,"2018-02-24","Target Center",30.07,0.0072
+21700889,"2018-02-24","Talking Stick Resort Arena",58.33,0
+21700890,"2018-02-24","Vivint Smart Home Arena",25.03,0.0013
+21700891,"2018-02-24","Golden 1 Center",53.68,0
+21700892,"2018-02-25","Spectrum Center",75.46,0
+21700893,"2018-02-25","Fiserv Forum",36.09,0
+21700894,"2018-02-25","Quicken Loans Arena",41.43,0.0003
+21700895,"2018-02-25","Capital Center",49.78,0.0051
+21700896,"2018-02-25","Pepsi Center",35.92,0
+21700897,"2018-02-26","State Farm Arena",61.71,0.0033
+21700898,"2018-02-26","Td Garden",40.11,0.0118
+21700899,"2018-02-26","Barclays Center",42.57,0.0004
+21700900,"2018-02-26","Madison Square Garden",42.74,0.0007
+21700901,"2018-02-26","Scotiabank Arena",45.85,0
+21700902,"2018-02-26","Smoothie King Center",69.64,0
+21700903,"2018-02-26","Chesapeake Energy Arena",62.28,0
+21700904,"2018-02-26","American Airlines Center",66.19,0
+21700905,"2018-02-26","Vivint Smart Home Arena",31.6,0.0019
+21700906,"2018-02-26","Golden 1 Center",62.03,0
+21700907,"2018-02-27","Spectrum Center",49.4,0.0075
+21700908,"2018-02-27","Quicken Loans Arena",46.71,0
+21700909,"2018-02-27","American Airlines Center",67.67,0
+21700910,"2018-02-27","Fiserv Forum",48.86,0
+21700911,"2018-02-27","Moda Center",43,0.0008
+21700912,"2018-02-27","Pepsi Center",53.18,0
+21700913,"2018-02-28","Little Caesars Arena",55.48,0
+21700914,"2018-02-28","Amway Center",73.24,0
+21700915,"2018-02-28","State Farm Arena",63.1,0
+21700916,"2018-02-28","Td Garden",48.13,0
+21700917,"2018-02-28","Capital Center",53.82,0
+21700918,"2018-02-28","Fedex Forum",66.82,0
+21700919,"2018-02-28","American Airlines Center",63.65,0.0042
+21700920,"2018-02-28","At&t Center",79.08,0
+21700921,"2018-02-28","Staples Center",53.61,0.0011
+21700922,"2018-03-01","American Airlines Center",65.3,0.0163
+21700923,"2018-03-01","Quicken Loans Arena",54.29,0
+21700924,"2018-03-01","Golden 1 Center",57.61,0
+21700925,"2018-03-01","Moda Center",44.4,0.0364
+21700926,"2018-03-02","Amway Center",81.12,0
+21700927,"2018-03-02","Wells Fargo Arena",70.02,0
+21700928,"2018-03-02","State Farm Arena",57.09,0.013
+21700929,"2018-03-02","Capital Center",51.19,0.0011
+21700930,"2018-03-02","United Center",40.46,0
+21700931,"2018-03-02","Fedex Forum",62.05,0
+21700932,"2018-03-02","Fiserv Forum",38.75,0
+21700933,"2018-03-02","Talking Stick Resort Arena",70.05,0
+21700934,"2018-03-02","Vivint Smart Home Arena",39.83,0.0006
+21700935,"2018-03-02","Staples Center",61.56,0
+21700936,"2018-03-03","Amway Center",77.84,0
+21700937,"2018-03-03","Quicken Loans Arena",34.22,0.001
+21700938,"2018-03-03","American Airlines Center",69.55,0
+21700939,"2018-03-03","Toyota Center",71.82,0
+21700940,"2018-03-03","At&t Center",73.22,0
+21700941,"2018-03-03","Moda Center",48.55,0
+21700942,"2018-03-03","Golden 1 Center",48.65,0.0101
+21700943,"2018-03-04","State Farm Arena",59.83,0
+21700944,"2018-03-04","Scotiabank Arena",35.12,0
+21700945,"2018-03-04","Capital Center",44.93,0
+21700946,"2018-03-04","American Airlines Center",72.52,0
+21700947,"2018-03-04","Fiserv Forum",35.51,0
+21700948,"2018-03-04","Staples Center",57.77,0.0018
+21700949,"2018-03-04","Golden 1 Center",47.22,0.014
+21700950,"2018-03-05","Quicken Loans Arena",33.11,0
+21700951,"2018-03-05","Bankers Life Fieldhouse",47.44,0
+21700952,"2018-03-05","American Airlines Center",69.18,0.0016
+21700953,"2018-03-05","United Center",42.69,0
+21700954,"2018-03-05","At&t Center",79.11,0
+21700955,"2018-03-05","Vivint Smart Home Arena",32.49,0.0079
+21700956,"2018-03-05","Staples Center",61.64,0
+21700957,"2018-03-06","Spectrum Center",57.31,0
+21700958,"2018-03-06","Scotiabank Arena",33.69,0
+21700959,"2018-03-06","Capital Center",43.93,0
+21700960,"2018-03-06","Chesapeake Energy Arena",60.44,0
+21700961,"2018-03-06","American Airlines Center",66.65,0
+21700962,"2018-03-06","Moda Center",50.68,0
+21700963,"2018-03-06","Oracle Arena",60.4,0
+21700964,"2018-03-06","Staples Center",71.99,0
+21700965,"2018-03-07","Bankers Life Fieldhouse",41.86,0
+21700966,"2018-03-07","Little Caesars Arena",37.58,0
+21700967,"2018-03-07","United Center",36.53,0.002
+21700968,"2018-03-07","Fiserv Forum",33.96,0.0028
+21700969,"2018-03-07","Golden 1 Center",65.82,0
+21700970,"2018-03-07","Pepsi Center",47.39,0
+21700971,"2018-03-07","Staples Center",77.31,0
+21700972,"2018-03-08","Spectrum Center",47.15,0
+21700973,"2018-03-08","American Airlines Center",58.78,0
+21700974,"2018-03-08","Target Center",27.5,0.0006
+21700975,"2018-03-08","Chesapeake Energy Arena",52.41,0
+21700976,"2018-03-08","Oracle Arena",68.55,0
+21700977,"2018-03-09","Little Caesars Arena",31.75,0
+21700978,"2018-03-09","Bankers Life Fieldhouse",29.41,0
+21700979,"2018-03-09","Scotiabank Arena",31.66,0
+21700980,"2018-03-09","Fedex Forum",47.75,0
+21700981,"2018-03-09","Fiserv Forum",29.42,0
+21700982,"2018-03-09","Smoothie King Center",61.99,0
+21700983,"2018-03-09","Pepsi Center",63.07,0
+21700984,"2018-03-09","Moda Center",54.31,0.0131
+21700985,"2018-03-09","Golden 1 Center",67.64,0
+21700986,"2018-03-09","Staples Center",73.94,0
+21700987,"2018-03-10","Spectrum Center",52,0
+21700988,"2018-03-10","American Airlines Center",73,0
+21700989,"2018-03-10","American Airlines Center",73,0
+21700990,"2018-03-10","Chesapeake Energy Arena",72.43,0
+21700991,"2018-03-10","Staples Center",68.63,0
+21700992,"2018-03-11","Madison Square Garden",38.23,0
+21700993,"2018-03-11","State Farm Arena",58.93,0.0044
+21700994,"2018-03-11","Target Center",34.86,0
+21700995,"2018-03-11","Smoothie King Center",71.97,0
+21700996,"2018-03-11","Pepsi Center",48.28,0
+21700997,"2018-03-11","American Airlines Center",83.02,0
+21700998,"2018-03-11","Td Garden",36.76,0.0019
+21700999,"2018-03-11","Barclays Center",38.2,0
+21701000,"2018-03-11","Staples Center",58.86,0.0062
+21701001,"2018-03-12","Toyota Center",68.18,0.0003
+21701002,"2018-03-12","Fedex Forum",47.79,0
+21701003,"2018-03-12","Chesapeake Energy Arena",51.04,0
+21701004,"2018-03-12","Moda Center",67.32,0
+21701005,"2018-03-13","Wells Fargo Arena",82.9,0
+21701006,"2018-03-13","Capital Center",39.82,0
+21701007,"2018-03-13","State Farm Arena",49.67,0
+21701008,"2018-03-13","Barclays Center",40.95,0
+21701009,"2018-03-13","Madison Square Garden",41.02,0
+21701010,"2018-03-13","United Center",39.45,0
+21701011,"2018-03-13","Smoothie King Center",61.11,0
+21701012,"2018-03-13","At&t Center",66.07,0
+21701013,"2018-03-13","Vivint Smart Home Arena",59.2,0
+21701014,"2018-03-13","Talking Stick Resort Arena",83.11,0
+21701015,"2018-03-13","Staples Center",69.86,0
+21701016,"2018-03-14","Amway Center",64.53,0
+21701017,"2018-03-14","Td Garden",30.21,0.0034
+21701018,"2018-03-14","Golden 1 Center",57.72,0.0291
+21701019,"2018-03-14","Oracle Arena",58.89,0.0008
+21701020,"2018-03-15","Bankers Life Fieldhouse",40.91,0
+21701021,"2018-03-15","State Farm Arena",48.97,0
+21701022,"2018-03-15","Madison Square Garden",35.77,0
+21701023,"2018-03-15","Toyota Center",68.69,0
+21701024,"2018-03-15","Fedex Forum",53.44,0
+21701025,"2018-03-15","At&t Center",69.09,0
+21701026,"2018-03-15","Pepsi Center",66.55,0
+21701027,"2018-03-15","Vivint Smart Home Arena",52.14,0.0408
+21701028,"2018-03-15","Moda Center",53.33,0.0005
+21701029,"2018-03-16","Amway Center",68.83,0
+21701030,"2018-03-16","Wells Fargo Arena",70.5,0
+21701031,"2018-03-16","Scotiabank Arena",33.25,0
+21701032,"2018-03-16","Chesapeake Energy Arena",73.02,0
+21701033,"2018-03-16","Oracle Arena",54.88,0.0098
+21701034,"2018-03-16","Staples Center",62.96,0
+21701035,"2018-03-17","Capital Center",40.97,0
+21701036,"2018-03-17","Smoothie King Center",72.65,0.0008
+21701037,"2018-03-17","Barclays Center",34.77,0
+21701038,"2018-03-17","Madison Square Garden",34.6,0
+21701039,"2018-03-17","United Center",32.83,0
+21701040,"2018-03-17","Fedex Forum",59.58,0.0036
+21701041,"2018-03-17","Fiserv Forum",30.7,0
+21701042,"2018-03-17","At&t Center",85.86,0
+21701043,"2018-03-17","Vivint Smart Home Arena",49.62,0
+21701044,"2018-03-17","Talking Stick Resort Arena",72.7,0
+21701045,"2018-03-17","Moda Center",51.53,0
+21701046,"2018-03-18","Scotiabank Arena",33.83,0
+21701047,"2018-03-18","Smoothie King Center",76.45,0.0002
+21701048,"2018-03-18","Target Center",48.4,0
+21701049,"2018-03-18","Staples Center",58.36,0
+21701050,"2018-03-19","Quicken Loans Arena",51.46,0
+21701051,"2018-03-19","Bankers Life Fieldhouse",53.33,0
+21701052,"2018-03-19","Wells Fargo Arena",66.73,0
+21701053,"2018-03-19","Barclays Center",41.86,0
+21701054,"2018-03-19","American Airlines Center",76.84,0
+21701055,"2018-03-19","Madison Square Garden",41.79,0
+21701056,"2018-03-19","At&t Center",84.77,0
+21701057,"2018-03-19","Golden 1 Center",57.77,0
+21701058,"2018-03-20","Amway Center",70.14,0.0585
+21701059,"2018-03-20","Td Garden",33.7,0
+21701060,"2018-03-20","Target Center",41.37,0
+21701061,"2018-03-20","Smoothie King Center",82.94,0
+21701062,"2018-03-20","Vivint Smart Home Arena",45.39,0
+21701063,"2018-03-20","Talking Stick Resort Arena",74.11,0
+21701064,"2018-03-20","Moda Center",57.18,0
+21701065,"2018-03-21","Quicken Loans Arena",36.51,0
+21701066,"2018-03-21","Wells Fargo Arena",80.14,0
+21701067,"2018-03-21","Barclays Center",37.17,0
+21701068,"2018-03-21","American Airlines Center",64.83,0
+21701069,"2018-03-21","United Center",33.02,0
+21701070,"2018-03-21","Fiserv Forum",29.69,0
+21701071,"2018-03-21","At&t Center",76.41,0
+21701072,"2018-03-22","Spectrum Center",43.19,0
+21701073,"2018-03-22","Amway Center",62.86,0
+21701074,"2018-03-22","Toyota Center",74.1,0
+21701075,"2018-03-22","Smoothie King Center",66.76,0
+21701076,"2018-03-22","American Airlines Center",71.77,0
+21701077,"2018-03-22","Golden 1 Center",65.75,0.006
+21701078,"2018-03-23","Bankers Life Fieldhouse",46.25,0
+21701079,"2018-03-23","Capital Center",43.54,0.0026
+21701080,"2018-03-23","Quicken Loans Arena",38.17,0
+21701081,"2018-03-23","Madison Square Garden",47.09,0.0004
+21701082,"2018-03-23","Scotiabank Arena",37,0
+21701083,"2018-03-23","United Center",42.02,0
+21701084,"2018-03-23","Chesapeake Energy Arena",77.44,0
+21701085,"2018-03-23","At&t Center",76.3,0
+21701086,"2018-03-23","Moda Center",46.63,0.0079
+21701087,"2018-03-23","Oracle Arena",55.99,0.0004
+21701088,"2018-03-24","Wells Fargo Arena",83.55,0
+21701089,"2018-03-24","Little Caesars Arena",38.69,0
+21701090,"2018-03-24","Amway Center",69.46,0
+21701091,"2018-03-24","Toyota Center",75.59,0
+21701092,"2018-03-24","Fedex Forum",68.48,0
+21701093,"2018-03-24","American Airlines Center",75.45,0
+21701094,"2018-03-25","Barclays Center",46.55,0
+21701095,"2018-03-25","Fiserv Forum",34.75,0
+21701096,"2018-03-25","Bankers Life Fieldhouse",31.51,0.0031
+21701097,"2018-03-25","Scotiabank Arena",32.93,0
+21701098,"2018-03-25","Capital Center",45.95,0
+21701099,"2018-03-25","Golden 1 Center",57,0
+21701100,"2018-03-25","Chesapeake Energy Arena",70.85,0
+21701101,"2018-03-25","Toyota Center",77.92,0
+21701102,"2018-03-25","Oracle Arena",54.43,0
+21701103,"2018-03-26","Spectrum Center",53.41,0
+21701104,"2018-03-26","Little Caesars Arena",38.28,0
+21701105,"2018-03-26","Wells Fargo Arena",76.3,0
+21701106,"2018-03-26","Target Center",42.07,0
+21701107,"2018-03-26","Talking Stick Resort Arena",76.42,0
+21701108,"2018-03-27","Capital Center",47.2,0
+21701109,"2018-03-27","Scotiabank Arena",42.83,0
+21701110,"2018-03-27","American Airlines Center",84.25,0
+21701111,"2018-03-27","Toyota Center",79.01,0
+21701112,"2018-03-27","Smoothie King Center",77.03,0
+21701113,"2018-03-27","Golden 1 Center",64.82,0
+21701114,"2018-03-27","Oracle Arena",63.69,0
+21701115,"2018-03-27","Staples Center",68.67,0
+21701116,"2018-03-28","Spectrum Center",50.83,0
+21701117,"2018-03-28","Amway Center",73.63,0
+21701118,"2018-03-28","Wells Fargo Arena",73.94,0
+21701119,"2018-03-28","Fedex Forum",77.82,0
+21701120,"2018-03-28","Target Center",47.22,0
+21701121,"2018-03-28","Vivint Smart Home Arena",47.17,0
+21701122,"2018-03-28","Talking Stick Resort Arena",74.53,0
+21701123,"2018-03-28","Staples Center",75.08,0
+21701124,"2018-03-29","Little Caesars Arena",46.85,0
+21701125,"2018-03-29","American Airlines Center",64.26,0.001
+21701126,"2018-03-29","At&t Center",73.14,0.0005
+21701127,"2018-03-29","Golden 1 Center",76.04,0
+21701128,"2018-03-29","Oracle Arena",76.28,0
+21701129,"2018-03-30","Amway Center",83.75,0
+21701130,"2018-03-30","State Farm Arena",74.03,0
+21701131,"2018-03-30","Quicken Loans Arena",40.89,0.0925
+21701132,"2018-03-30","Toyota Center",79.74,0.0014
+21701133,"2018-03-30","Chesapeake Energy Arena",52.33,0
+21701134,"2018-03-30","American Airlines Center",71.4,0
+21701135,"2018-03-30","Vivint Smart Home Arena",53.36,0
+21701136,"2018-03-30","Staples Center",75.66,0
+21701137,"2018-03-30","Moda Center",59.69,0
+21701138,"2018-03-31","Capital Center",53.64,0.0007
+21701139,"2018-03-31","Madison Square Garden",50.74,0.0143
+21701140,"2018-03-31","Td Garden",54.2,0
+21701141,"2018-03-31","American Airlines Center",71.47,0
+21701142,"2018-03-31","Golden 1 Center",79.73,0
+21701143,"2018-04-01","Spectrum Center",66.23,0
+21701144,"2018-04-01","United Center",51.73,0
+21701145,"2018-04-01","At&t Center",81.84,0
+21701146,"2018-04-01","Staples Center",73.78,0
+21701147,"2018-04-01","State Farm Arena",68.79,0
+21701148,"2018-04-01","Barclays Center",49.96,0
+21701149,"2018-04-01","Quicken Loans Arena",52.59,0
+21701150,"2018-04-01","Smoothie King Center",70.59,0
+21701151,"2018-04-01","Target Center",25.88,0.001
+21701152,"2018-04-01","Pepsi Center",58.58,0
+21701153,"2018-04-01","Oracle Arena",70.5,0
+21701154,"2018-04-01","Moda Center",61.59,0
+21701155,"2018-04-01","Staples Center",73.78,0
+21701156,"2018-04-03","Quicken Loans Arena",41.92,0
+21701157,"2018-04-03","Wells Fargo Arena",88.54,0
+21701158,"2018-04-03","American Airlines Center",53.57,0
+21701159,"2018-04-03","Madison Square Garden",41.8,0.0174
+21701160,"2018-04-03","United Center",40.88,0
+21701161,"2018-04-03","Toyota Center",79.61,0
+21701162,"2018-04-03","Fiserv Forum",36.39,0
+21701163,"2018-04-03","Chesapeake Energy Arena",53.53,0
+21701164,"2018-04-03","American Airlines Center",53.57,0
+21701165,"2018-04-03","Pepsi Center",72.34,0
+21701166,"2018-04-03","Vivint Smart Home Arena",45.09,0.0009
+21701167,"2018-04-03","Talking Stick Resort Arena",88.61,0
+21701168,"2018-04-03","Staples Center",67.2,0
+21701169,"2018-04-04","Little Caesars Arena",38.61,0.0344
+21701170,"2018-04-04","Amway Center",84.09,0
+21701171,"2018-04-04","Scotiabank Arena",37.35,0.0102
+21701172,"2018-04-04","State Farm Arena",80.28,0
+21701173,"2018-04-04","Smoothie King Center",81.03,0
+21701174,"2018-04-04","Staples Center",70.69,0
+21701175,"2018-04-05","Bankers Life Fieldhouse",34.12,0
+21701176,"2018-04-05","Quicken Loans Arena",33.11,0.0002
+21701177,"2018-04-05","Toyota Center",72.84,0
+21701178,"2018-04-05","Fiserv Forum",33.1,0.0011
+21701179,"2018-04-05","Vivint Smart Home Arena",54.97,0
+21701180,"2018-04-05","Pepsi Center",62.62,0
+21701181,"2018-04-06","Little Caesars Arena",42.29,0
+21701182,"2018-04-06","Amway Center",76.71,0
+21701183,"2018-04-06","Wells Fargo Arena",91.05,0
+21701184,"2018-04-06","Capital Center",53.2,0
+21701185,"2018-04-06","Td Garden",39.89,0
+21701186,"2018-04-06","Madison Square Garden",43.44,0
+21701187,"2018-04-06","Scotiabank Arena",35.09,0
+21701188,"2018-04-06","Fedex Forum",62.58,0
+21701189,"2018-04-06","Talking Stick Resort Arena",91.42,0
+21701190,"2018-04-06","Staples Center",69.47,0
+21701191,"2018-04-07","Staples Center",70.58,0
+21701192,"2018-04-07","Madison Square Garden",59.32,0.0003
+21701193,"2018-04-07","United Center",33.15,0
+21701194,"2018-04-07","Toyota Center",77.24,0.0015
+21701195,"2018-04-07","Oracle Arena",61.25,0.0673
+21701196,"2018-04-07","At&t Center",84.9,0
+21701197,"2018-04-08","Spectrum Center",47.8,0.0005
+21701198,"2018-04-08","Wells Fargo Arena",92.79,0
+21701199,"2018-04-08","Fedex Forum",38.85,0
+21701200,"2018-04-08","Scotiabank Arena",32.13,0
+21701201,"2018-04-08","Staples Center",70.83,0
+21701202,"2018-04-08","Td Garden",44.98,0
+21701203,"2018-04-08","Talking Stick Resort Arena",93,0
+21701204,"2018-04-09","Little Caesars Arena",38.74,0
+21701205,"2018-04-09","Barclays Center",40.71,0
+21701206,"2018-04-09","American Airlines Center",55.7,0
+21701207,"2018-04-09","Madison Square Garden",40.64,0
+21701208,"2018-04-09","Fiserv Forum",33.29,0
+21701209,"2018-04-09","Target Center",29.29,0.0005
+21701210,"2018-04-09","At&t Center",70.02,0
+21701211,"2018-04-09","Pepsi Center",61.1,0
+21701212,"2018-04-09","Staples Center",75.27,0
+21701213,"2018-04-10","Bankers Life Fieldhouse",40.15,0
+21701214,"2018-04-10","State Farm Arena",58.73,0
+21701215,"2018-04-10","Capital Center",43.77,0
+21701216,"2018-04-10","American Airlines Center",69.56,0
+21701217,"2018-04-10","Vivint Smart Home Arena",57.18,0
+21701218,"2018-04-10","Staples Center",93.34,0
+21701219,"2018-04-11","Td Garden",39.75,0.0003
+21701220,"2018-04-11","Quicken Loans Arena",41.35,0
+21701221,"2018-04-11","American Airlines Center",71.91,0
+21701222,"2018-04-11","Amway Center",69.49,0.0023
+21701223,"2018-04-11","Wells Fargo Arena",97.53,0
+21701224,"2018-04-11","United Center",44.1,0
+21701225,"2018-04-11","Target Center",40.35,0
+21701226,"2018-04-11","Smoothie King Center",74.11,0
+21701227,"2018-04-11","Chesapeake Energy Arena",70.06,0
+21701228,"2018-04-11","Staples Center",88.25,0
+21701229,"2018-04-11","Moda Center",59.44,0.0129
+21701230,"2018-04-11","Golden 1 Center",68.26,0
+21800001,"2018-10-16","Td Garden",63.45,0
+21800002,"2018-10-16","Oracle Arena",78.1,0
+21800003,"2018-10-17","Spectrum Center",75.46,0
+21800004,"2018-10-17","Little Caesars Arena",56.11,0
+21800005,"2018-10-17","Bankers Life Fieldhouse",54.11,0
+21800006,"2018-10-17","Amway Center",89.12,0
+21800007,"2018-10-17","Madison Square Garden",53.14,0
+21800008,"2018-10-17","Scotiabank Arena",52.88,NULL
+21800009,"2018-10-17","Toyota Center",60,0
+21800010,"2018-10-17","At&t Center",50.45,0
+21800011,"2018-10-17","Golden 1 Center",79.37,0
+21800012,"2018-10-17","Staples Center",81.78,0
+21800013,"2018-10-17","Talking Stick Resort Arena",67.67,0
+21800014,"2018-10-18","Wells Fargo Arena",76.18,0
+21800015,"2018-10-18","Capital Center",64.79,0
+21800016,"2018-10-18","Moda Center",74.15,0
+21800017,"2018-10-19","Amway Center",86.2,0
+21800018,"2018-10-19","Barclays Center",49.54,0
+21800019,"2018-10-19","Scotiabank Arena",46.38,NULL
+21800020,"2018-10-19","Fedex Forum",64.33,0
+21800021,"2018-10-19","Target Center",70.95,0
+21800022,"2018-10-19","Smoothie King Center",80.13,0
+21800023,"2018-10-19","Fiserv Forum",57.75,0
+21800024,"2018-10-19","Vivint Smart Home Arena",59.17,0
+21800025,"2018-10-19","Staples Center",85.17,0
+21800026,"2018-10-20","Bankers Life Fieldhouse",52.17,0.0044
+21800027,"2018-10-20","Capital Center",61.76,0
+21800028,"2018-10-20","Madison Square Garden",57.09,0
+21800029,"2018-10-20","Wells Fargo Arena",83.75,0
+21800030,"2018-10-20","American Airlines Center",59.94,0.0751
+21800031,"2018-10-20","United Center",49.65,0.001
+21800032,"2018-10-20","American Airlines Center",59.94,0.0751
+21800033,"2018-10-20","Pepsi Center",66.24,0
+21800034,"2018-10-20","Moda Center",69.03,0
+21800035,"2018-10-20","Staples Center",87.85,0
+21800036,"2018-10-21","Quicken Loans Arena",49.61,0.1293
+21800037,"2018-10-21","Chesapeake Energy Arena",68.71,0
+21800038,"2018-10-21","Pepsi Center",69.8,0
+21800039,"2018-10-21","Staples Center",88.03,0
+21800040,"2018-10-22","Td Garden",41.69,0
+21800041,"2018-10-22","Scotiabank Arena",42.77,NULL
+21800042,"2018-10-22","Fiserv Forum",49.28,0
+21800043,"2018-10-22","Target Center",57.46,0
+21800044,"2018-10-22","American Airlines Center",69.06,0
+21800045,"2018-10-22","Vivint Smart Home Arena",68.09,0
+21800046,"2018-10-22","Moda Center",66.96,0
+21800047,"2018-10-22","Oracle Arena",68.06,0
+21800048,"2018-10-22","Staples Center",80.18,0
+21800049,"2018-10-23","Little Caesars Arena",54.3,0
+21800050,"2018-10-23","Smoothie King Center",73.29,0
+21800051,"2018-10-23","Pepsi Center",70.69,0
+21800052,"2018-10-24","State Farm Arena",64.59,0
+21800053,"2018-10-24","Quicken Loans Arena",50.12,0
+21800054,"2018-10-24","American Airlines Center",71.24,0
+21800055,"2018-10-24","Scotiabank Arena",46.38,NULL
+21800056,"2018-10-24","United Center",49.89,0
+21800057,"2018-10-24","Toyota Center",62.11,0
+21800058,"2018-10-24","At&t Center",63.41,0
+21800059,"2018-10-24","Fiserv Forum",48.23,0
+21800060,"2018-10-24","Talking Stick Resort Arena",86.67,0
+21800061,"2018-10-24","Golden 1 Center",71.08,0
+21800062,"2018-10-24","Oracle Arena",65.03,0
+21800063,"2018-10-25","Little Caesars Arena",48.28,0
+21800064,"2018-10-25","Amway Center",78.58,0
+21800065,"2018-10-25","Chesapeake Energy Arena",54.8,0.0083
+21800066,"2018-10-25","Staples Center",79.47,0
+21800067,"2018-10-26","Spectrum Center",54.18,0
+21800068,"2018-10-26","Madison Square Garden",47.19,0
+21800069,"2018-10-26","Scotiabank Arena",44.11,NULL
+21800070,"2018-10-26","Toyota Center",67.73,0
+21800071,"2018-10-26","Target Center",53.42,0
+21800072,"2018-10-26","Smoothie King Center",77.54,0
+21800073,"2018-10-26","Golden 1 Center",79.71,0
+21800074,"2018-10-27","Little Caesars Arena",49.79,0
+21800075,"2018-10-27","Smoothie King Center",68.87,0
+21800076,"2018-10-27","State Farm Arena",50.71,0.0007
+21800077,"2018-10-27","Quicken Loans Arena",47.56,0.0486
+21800078,"2018-10-27","Wells Fargo Arena",86.14,0
+21800079,"2018-10-27","American Airlines Center",72.4,0
+21800080,"2018-10-27","Fedex Forum",54.49,0.0004
+21800081,"2018-10-27","Fiserv Forum",47.88,0
+21800082,"2018-10-27","At&t Center",79.83,0.0002
+21800083,"2018-10-28","Barclays Center",50.55,0.0033
+21800084,"2018-10-28","American Airlines Center",82.64,0
+21800085,"2018-10-28","Chesapeake Energy Arena",79.4,0
+21800086,"2018-10-28","Staples Center",87.36,0
+21800087,"2018-10-29","Bankers Life Fieldhouse",51.53,0
+21800088,"2018-10-29","Wells Fargo Arena",88.33,0
+21800089,"2018-10-29","American Airlines Center",84.48,0
+21800090,"2018-10-29","Madison Square Garden",51,0
+21800091,"2018-10-29","United Center",46.98,0.0023
+21800092,"2018-10-29","Fiserv Forum",45.66,0
+21800093,"2018-10-29","Target Center",51.19,0
+21800094,"2018-10-29","At&t Center",80.57,0
+21800095,"2018-10-29","Pepsi Center",75.77,0
+21800096,"2018-10-30","Spectrum Center",56.2,0
+21800097,"2018-10-30","Quicken Loans Arena",47.08,0
+21800098,"2018-10-30","Amway Center",76.89,0
+21800099,"2018-10-30","Td Garden",50.5,0
+21800100,"2018-10-30","Scotiabank Arena",46.04,NULL
+21800101,"2018-10-30","Toyota Center",82.25,0
+21800102,"2018-10-30","Fedex Forum",63.8,0
+21800103,"2018-10-30","Chesapeake Energy Arena",79.35,0
+21800104,"2018-10-31","Barclays Center",51.23,NULL
+21800105,"2018-10-31","Madison Square Garden",50.71,NULL
+21800106,"2018-10-31","United Center",65.38,NULL
+21800107,"2018-10-31","Target Center",49.29,NULL
+21800108,"2018-10-31","Oracle Arena",71.38,NULL
+21800109,"2018-10-31","Staples Center",74.57,NULL
+21800110,"2018-10-31","Talking Stick Resort Arena",83.47,NULL
+21800111,"2018-11-01","Spectrum Center",65.61,0
+21800112,"2018-11-01","Quicken Loans Arena",52.81,0.0707
+21800113,"2018-11-01","Wells Fargo Arena",76.1,0
+21800114,"2018-11-01","State Farm Arena",70.98,0
+21800115,"2018-11-01","Td Garden",53.58,0
+21800116,"2018-11-01","Moda Center",56.23,0.007
+21800117,"2018-11-02","Amway Center",78.75,0
+21800118,"2018-11-02","Barclays Center",64.1,0
+21800119,"2018-11-02","Capital Center",67.67,0
+21800120,"2018-11-02","United Center",46.36,0
+21800121,"2018-11-02","American Airlines Center",60.63,0
+21800122,"2018-11-02","Vivint Smart Home Arena",48.21,0
+21800123,"2018-11-02","Talking Stick Resort Arena",77.27,0
+21800124,"2018-11-02","Oracle Arena",81.12,0
+21800125,"2018-11-03","Wells Fargo Arena",81.07,0
+21800126,"2018-11-03","Spectrum Center",61.1,0
+21800127,"2018-11-03","Bankers Life Fieldhouse",45.09,0
+21800128,"2018-11-03","State Farm Arena",49.96,0
+21800129,"2018-11-03","United Center",44.77,0
+21800130,"2018-11-03","At&t Center",73.02,0
+21800131,"2018-11-03","Pepsi Center",60.52,0
+21800132,"2018-11-03","Moda Center",64.2,0
+21800133,"2018-11-04","Fiserv Forum",41.73,0
+21800134,"2018-11-04","Barclays Center",52.88,0
+21800135,"2018-11-04","Capital Center",53.81,0
+21800136,"2018-11-04","Talking Stick Resort Arena",81.1,0
+21800137,"2018-11-04","At&t Center",75.7,0
+21800138,"2018-11-04","Moda Center",57.68,0
+21800139,"2018-11-04","Staples Center",87.46,0
+21800140,"2018-11-05","Little Caesars Arena",49.18,0
+21800141,"2018-11-05","Bankers Life Fieldhouse",52.29,0.0008
+21800142,"2018-11-05","Amway Center",72.16,0.0337
+21800143,"2018-11-05","Madison Square Garden",48.96,0
+21800144,"2018-11-05","Chesapeake Energy Arena",56.48,0
+21800145,"2018-11-05","Pepsi Center",52.24,0
+21800146,"2018-11-05","Vivint Smart Home Arena",49.94,0
+21800147,"2018-11-05","Oracle Arena",71.28,0
+21800148,"2018-11-05","Staples Center",83.61,0
+21800149,"2018-11-06","Spectrum Center",59.73,0
+21800150,"2018-11-06","American Airlines Center",79.83,0
+21800151,"2018-11-06","Talking Stick Resort Arena",82.03,0
+21800152,"2018-11-06","Moda Center",54.94,0.0065
+21800153,"2018-11-07","Quicken Loans Arena",51.63,0
+21800154,"2018-11-07","Amway Center",79.11,0
+21800155,"2018-11-07","State Farm Arena",64.94,0
+21800156,"2018-11-07","American Airlines Center",73.01,0
+21800157,"2018-11-07","Bankers Life Fieldhouse",51.46,0
+21800158,"2018-11-07","Fedex Forum",64.61,0
+21800159,"2018-11-07","Smoothie King Center",75.19,0
+21800160,"2018-11-07","Vivint Smart Home Arena",44.78,0
+21800161,"2018-11-07","Golden 1 Center",74.02,0
+21800162,"2018-11-07","Staples Center",74.89,0
+21800163,"2018-11-08","Chesapeake Energy Arena",56.81,0
+21800164,"2018-11-08","Talking Stick Resort Arena",81.97,0
+21800165,"2018-11-08","Moda Center",50.79,0
+21800166,"2018-11-08","Oracle Arena",74.2,0
+21800167,"2018-11-09","Amway Center",80.22,0
+21800168,"2018-11-09","Wells Fargo Arena",80.47,0
+21800169,"2018-11-09","State Farm Arena",56.13,0.0265
+21800170,"2018-11-09","American Airlines Center",54.95,0
+21800171,"2018-11-09","Pepsi Center",39.07,0
+21800172,"2018-11-09","Vivint Smart Home Arena",40.36,0
+21800173,"2018-11-09","Golden 1 Center",72.28,0
+21800174,"2018-11-10","Scotiabank Arena",38.77,0.0354
+21800175,"2018-11-10","Staples Center",79.75,0
+21800176,"2018-11-10","Smoothie King Center",56.76,0
+21800177,"2018-11-10","American Airlines Center",53.68,0
+21800178,"2018-11-10","United Center",29.55,0
+21800179,"2018-11-10","Fedex Forum",44.87,0.0004
+21800180,"2018-11-10","At&t Center",56.35,0
+21800181,"2018-11-10","American Airlines Center",53.68,0
+21800182,"2018-11-10","Oracle Arena",66.66,0
+21800183,"2018-11-10","Golden 1 Center",64.27,0
+21800184,"2018-11-11","Little Caesars Arena",35.44,0
+21800185,"2018-11-11","Toyota Center",48.75,0
+21800186,"2018-11-11","Madison Square Garden",38.36,0
+21800187,"2018-11-11","Pepsi Center",53.39,0
+21800188,"2018-11-11","Moda Center",52.33,0
+21800189,"2018-11-11","Staples Center",76.32,0
+21800190,"2018-11-12","Capital Center",39.42,0
+21800191,"2018-11-12","American Airlines Center",51.67,0
+21800192,"2018-11-12","Scotiabank Arena",39.19,NULL
+21800193,"2018-11-12","United Center",38.62,0
+21800194,"2018-11-12","Fedex Forum",49.01,0
+21800195,"2018-11-12","Target Center",25.22,0
+21800196,"2018-11-12","Chesapeake Energy Arena",46.54,0
+21800197,"2018-11-12","Golden 1 Center",68.32,0
+21800198,"2018-11-12","Staples Center",75.88,0
+21800199,"2018-11-13","Quicken Loans Arena",38.58,0
+21800200,"2018-11-13","Pepsi Center",29.58,0.0022
+21800201,"2018-11-13","Oracle Arena",68.03,0
+21800202,"2018-11-14","Amway Center",80.93,0
+21800203,"2018-11-14","Capital Center",46.17,0
+21800204,"2018-11-14","Td Garden",44.35,0.0002
+21800205,"2018-11-14","Barclays Center",44.59,0
+21800206,"2018-11-14","Scotiabank Arena",33.46,NULL
+21800207,"2018-11-14","Fiserv Forum",23.43,0
+21800208,"2018-11-14","Target Center",20.32,0
+21800209,"2018-11-14","Chesapeake Energy Arena",31.29,0
+21800210,"2018-11-14","American Airlines Center",39.63,0
+21800211,"2018-11-14","Talking Stick Resort Arena",66.41,0
+21800212,"2018-11-14","Staples Center",74.12,0
+21800213,"2018-11-15","Toyota Center",50.13,0
+21800214,"2018-11-15","Pepsi Center",61.58,0
+21800215,"2018-11-15","Staples Center",78.9,0
+21800216,"2018-11-16","Td Garden",31.85,0
+21800217,"2018-11-16","Bankers Life Fieldhouse",33.23,0.0067
+21800218,"2018-11-16","Wells Fargo Arena",74.54,0
+21800219,"2018-11-16","Capital Center",36.01,0.0121
+21800220,"2018-11-16","Fedex Forum",40.62,0.0004
+21800221,"2018-11-16","Target Center",41.59,0
+21800222,"2018-11-16","Smoothie King Center",51.44,0
+21800223,"2018-11-16","Fiserv Forum",34.43,0
+21800224,"2018-11-17","Barclays Center",41.39,0.0009
+21800225,"2018-11-17","Spectrum Center",47.37,0
+21800226,"2018-11-17","Bankers Life Fieldhouse",37.81,0.0004
+21800227,"2018-11-17","Amway Center",57.93,0
+21800228,"2018-11-17","Smoothie King Center",57.06,0
+21800229,"2018-11-17","Td Garden",35.21,0.0003
+21800230,"2018-11-17","United Center",37.19,0
+21800231,"2018-11-17","Toyota Center",66.15,0
+21800232,"2018-11-17","American Airlines Center",69.25,0
+21800233,"2018-11-17","Talking Stick Resort Arena",75.76,0
+21800234,"2018-11-18","Target Center",24.98,0
+21800235,"2018-11-18","American Airlines Center",67.93,0
+21800236,"2018-11-18","Amway Center",67.97,0
+21800237,"2018-11-18","Capital Center",44.56,0
+21800238,"2018-11-18","At&t Center",69.04,0
+21800239,"2018-11-19","Spectrum Center",51.75,0
+21800240,"2018-11-19","Little Caesars Arena",36.24,0
+21800241,"2018-11-19","Bankers Life Fieldhouse",41.08,0
+21800242,"2018-11-19","Wells Fargo Arena",72.59,0
+21800243,"2018-11-19","State Farm Arena",56.19,0
+21800244,"2018-11-19","Fedex Forum",57.63,0
+21800245,"2018-11-19","Fiserv Forum",30.36,0
+21800246,"2018-11-19","Smoothie King Center",64.2,0
+21800247,"2018-11-19","Golden 1 Center",65.38,0
+21800248,"2018-11-20","Amway Center",72.99,0
+21800249,"2018-11-20","Capital Center",52.42,0
+21800250,"2018-11-20","American Airlines Center",53.55,0
+21800251,"2018-11-20","Madison Square Garden",46.44,0
+21800252,"2018-11-21","Spectrum Center",52.23,0
+21800253,"2018-11-21","Wells Fargo Arena",77.82,0
+21800254,"2018-11-21","State Farm Arena",49.12,0
+21800255,"2018-11-21","Td Garden",34.42,0.0106
+21800256,"2018-11-21","Quicken Loans Arena",31.27,0
+21800257,"2018-11-21","United Center",30.6,0
+21800258,"2018-11-21","Toyota Center",60.14,0
+21800259,"2018-11-21","Fiserv Forum",30.75,0
+21800260,"2018-11-21","Target Center",29.15,0
+21800261,"2018-11-21","American Airlines Center",57.01,0
+21800262,"2018-11-21","At&t Center",60.73,0
+21800263,"2018-11-21","Vivint Smart Home Arena",46.9,0
+21800264,"2018-11-21","Oracle Arena",65.14,0
+21800265,"2018-11-23","Barclays Center",24.14,0
+21800266,"2018-11-23","Staples Center",66.71,0
+21800267,"2018-11-23","Little Caesars Arena",26.96,0
+21800268,"2018-11-23","State Farm Arena",49.99,0
+21800269,"2018-11-23","Madison Square Garden",23.92,0
+21800270,"2018-11-23","Wells Fargo Arena",66,0
+21800271,"2018-11-23","Scotiabank Arena",19.4,NULL
+21800272,"2018-11-23","Bankers Life Fieldhouse",41.31,0
+21800273,"2018-11-23","United Center",35.41,0
+21800274,"2018-11-23","Chesapeake Energy Arena",58.37,0
+21800275,"2018-11-23","Fiserv Forum",35.91,0
+21800276,"2018-11-23","Pepsi Center",56.56,0
+21800277,"2018-11-23","Oracle Arena",61.3,0
+21800278,"2018-11-23","Staples Center",66.71,0
+21800279,"2018-11-24","Quicken Loans Arena",45.33,0
+21800280,"2018-11-24","Capital Center",33.18,0
+21800281,"2018-11-24","Target Center",40.36,0.0101
+21800282,"2018-11-24","Chesapeake Energy Arena",65.98,0
+21800283,"2018-11-24","American Airlines Center",73.07,0
+21800284,"2018-11-24","Fiserv Forum",44.2,0
+21800285,"2018-11-24","Oracle Arena",60.49,0.0396
+21800286,"2018-11-25","Staples Center",69.17,0
+21800287,"2018-11-25","Little Caesars Arena",48.62,0
+21800288,"2018-11-25","State Farm Arena",49.15,0
+21800289,"2018-11-25","Barclays Center",45.19,0
+21800290,"2018-11-25","Scotiabank Arena",42.09,0.0592
+21800291,"2018-11-25","Fedex Forum",59.84,0
+21800292,"2018-11-25","Golden 1 Center",61.31,0
+21800293,"2018-11-25","Moda Center",46.61,0
+21800294,"2018-11-26","Spectrum Center",50.71,0
+21800295,"2018-11-26","Quicken Loans Arena",42.93,0
+21800296,"2018-11-26","Capital Center",51.39,0
+21800297,"2018-11-26","United Center",37.37,0.0119
+21800298,"2018-11-26","Smoothie King Center",72.59,0
+21800299,"2018-11-26","Vivint Smart Home Arena",37.99,0
+21800300,"2018-11-26","Oracle Arena",64.28,0
+21800301,"2018-11-27","Little Caesars Arena",32.98,0
+21800302,"2018-11-27","American Airlines Center",50.44,0
+21800303,"2018-11-27","Fedex Forum",37.64,0
+21800304,"2018-11-27","Pepsi Center",49.01,0
+21800305,"2018-11-27","Talking Stick Resort Arena",75.06,0
+21800306,"2018-11-28","Spectrum Center",39.77,0
+21800307,"2018-11-28","Wells Fargo Arena",75.25,0
+21800308,"2018-11-28","Barclays Center",40.64,0
+21800309,"2018-11-28","Toyota Center",59.81,0
+21800310,"2018-11-28","Fiserv Forum",21.86,0
+21800311,"2018-11-28","Target Center",24.42,0
+21800312,"2018-11-28","Smoothie King Center",51.83,0
+21800313,"2018-11-28","Chesapeake Energy Arena",48.63,0
+21800314,"2018-11-28","Moda Center",56.15,0
+21800315,"2018-11-28","Staples Center",73.84,0
+21800316,"2018-11-29","Scotiabank Arena",36.69,NULL
+21800317,"2018-11-29","Staples Center",66.73,0
+21800318,"2018-11-29","Golden 1 Center",62.46,0
+21800319,"2018-11-30","Td Garden",39.6,0
+21800320,"2018-11-30","Spectrum Center",51.36,0
+21800321,"2018-11-30","Little Caesars Arena",30.78,0
+21800322,"2018-11-30","Wells Fargo Arena",68.59,0
+21800323,"2018-11-30","Barclays Center",41.11,0
+21800324,"2018-11-30","American Airlines Center",77.04,0
+21800325,"2018-11-30","Chesapeake Energy Arena",58.25,0
+21800326,"2018-11-30","At&t Center",73.01,0
+21800327,"2018-11-30","Talking Stick Resort Arena",68.65,0
+21800328,"2018-11-30","Staples Center",61.43,0.005
+21800329,"2018-11-30","Moda Center",50.46,0
+21800330,"2018-12-01","Madison Square Garden",39.27,0
+21800331,"2018-12-01","Little Caesars Arena",36.74,0
+21800332,"2018-12-01","Quicken Loans Arena",37.25,0
+21800333,"2018-12-01","Capital Center",42.77,0
+21800334,"2018-12-01","Toyota Center",75.15,0
+21800335,"2018-12-01","Target Center",30.21,0
+21800336,"2018-12-01","Golden 1 Center",59.63,0
+21800337,"2018-12-02","Staples Center",63.57,0
+21800338,"2018-12-02","Spectrum Center",55,0.0153
+21800339,"2018-12-02","American Airlines Center",70.18,0
+21800340,"2018-12-02","Wells Fargo Arena",63.22,0
+21800341,"2018-12-02","American Airlines Center",70.18,0
+21800342,"2018-12-02","At&t Center",77.5,0
+21800343,"2018-12-03","Little Caesars Arena",52.28,0.0073
+21800344,"2018-12-03","State Farm Arena",63.99,0
+21800345,"2018-12-03","Barclays Center",51.98,0.0057
+21800346,"2018-12-03","Madison Square Garden",51.97,0.0051
+21800347,"2018-12-03","Scotiabank Arena",47.49,NULL
+21800348,"2018-12-03","Target Center",30.15,0
+21800349,"2018-12-03","Smoothie King Center",71.47,0
+21800350,"2018-12-04","Bankers Life Fieldhouse",35.93,0.0031
+21800351,"2018-12-04","American Airlines Center",51.43,0
+21800352,"2018-12-04","American Airlines Center",51.43,0
+21800353,"2018-12-04","Talking Stick Resort Arena",62.38,0
+21800354,"2018-12-04","Vivint Smart Home Arena",29.83,0
+21800355,"2018-12-05","Quicken Loans Arena",31.97,0
+21800356,"2018-12-05","Amway Center",68.41,0
+21800357,"2018-12-05","State Farm Arena",43.96,0
+21800358,"2018-12-05","Barclays Center",36.24,0
+21800359,"2018-12-05","Scotiabank Arena",29.5,NULL
+21800360,"2018-12-05","Fedex Forum",35.87,0
+21800361,"2018-12-05","Fiserv Forum",30.1,0
+21800362,"2018-12-05","Target Center",21.87,0
+21800363,"2018-12-05","Smoothie King Center",55.2,0
+21800364,"2018-12-05","Staples Center",69.63,0
+21800365,"2018-12-06","Td Garden",31.52,0
+21800366,"2018-12-06","Moda Center",43.26,0
+21800367,"2018-12-06","Vivint Smart Home Arena",31.97,0
+21800368,"2018-12-07","Spectrum Center",39.86,0
+21800369,"2018-12-07","Little Caesars Arena",30.79,0
+21800370,"2018-12-07","Amway Center",60.74,0
+21800371,"2018-12-07","Barclays Center",37.56,0
+21800372,"2018-12-07","Quicken Loans Arena",32.26,0.2048
+21800373,"2018-12-07","United Center",26.92,0
+21800374,"2018-12-07","Smoothie King Center",54.51,0
+21800375,"2018-12-07","At&t Center",60.06,0
+21800376,"2018-12-07","Talking Stick Resort Arena",58.89,0
+21800377,"2018-12-07","Fiserv Forum",22.74,0
+21800378,"2018-12-08","American Airlines Center",45.07,0.0363
+21800379,"2018-12-08","Bankers Life Fieldhouse",27.52,0
+21800380,"2018-12-08","State Farm Arena",44.56,0.0038
+21800381,"2018-12-08","Quicken Loans Arena",28.55,0
+21800382,"2018-12-08","Madison Square Garden",32.49,0
+21800383,"2018-12-08","United Center",21.82,0
+21800384,"2018-12-08","Fedex Forum",40.91,0.0035
+21800385,"2018-12-08","Moda Center",39.67,0
+21800386,"2018-12-08","Staples Center",67.95,0
+21800387,"2018-12-09","Little Caesars Arena",28.53,0
+21800388,"2018-12-09","Scotiabank Arena",30.56,NULL
+21800389,"2018-12-09","Madison Square Garden",32.1,0
+21800390,"2018-12-09","At&t Center",48.18,0.0005
+21800391,"2018-12-10","Bankers Life Fieldhouse",29.74,0
+21800392,"2018-12-10","Wells Fargo Arena",70.33,0
+21800393,"2018-12-10","Td Garden",31.17,0
+21800394,"2018-12-10","United Center",28.65,0
+21800395,"2018-12-10","Fiserv Forum",22.36,0
+21800396,"2018-12-10","Chesapeake Energy Arena",43.66,0
+21800397,"2018-12-10","American Airlines Center",49.83,0
+21800398,"2018-12-10","Pepsi Center",43.23,0
+21800399,"2018-12-10","Talking Stick Resort Arena",70.37,0
+21800400,"2018-12-10","Oracle Arena",51.85,0
+21800401,"2018-12-10","Staples Center",69.51,0
+21800402,"2018-12-11","Toyota Center",57.26,0
+21800403,"2018-12-11","At&t Center",59.18,0
+21800404,"2018-12-11","Staples Center",66.22,0
+21800405,"2018-12-12","Spectrum Center",41.91,0.0017
+21800406,"2018-12-12","Quicken Loans Arena",33.36,0
+21800407,"2018-12-12","Bankers Life Fieldhouse",36.12,0
+21800408,"2018-12-12","Wells Fargo Arena",68.4,0
+21800409,"2018-12-12","Capital Center",37.05,0
+21800410,"2018-12-12","Fedex Forum",45.33,0
+21800411,"2018-12-12","Smoothie King Center",51.79,0
+21800412,"2018-12-12","American Airlines Center",56.6,0
+21800413,"2018-12-12","Vivint Smart Home Arena",33.76,0
+21800414,"2018-12-12","Golden 1 Center",57.12,0
+21800415,"2018-12-12","Oracle Arena",58.47,0
+21800416,"2018-12-13","Toyota Center",67.24,0
+21800417,"2018-12-13","At&t Center",62.98,0
+21800418,"2018-12-13","Amway Center",57.92,0
+21800419,"2018-12-13","Talking Stick Resort Arena",66.61,0
+21800420,"2018-12-14","Td Garden",30.62,0
+21800421,"2018-12-14","Spectrum Center",45.63,0
+21800422,"2018-12-14","Barclays Center",37.52,0.0006
+21800423,"2018-12-14","Quicken Loans Arena",39.65,0
+21800424,"2018-12-14","Wells Fargo Arena",67.87,0
+21800425,"2018-12-14","Fedex Forum",57.18,0.0011
+21800426,"2018-12-14","Pepsi Center",41.31,0
+21800427,"2018-12-14","Moda Center",52.36,0
+21800428,"2018-12-14","Golden 1 Center",58.17,0
+21800429,"2018-12-15","Amway Center",72.43,0.004
+21800430,"2018-12-15","Spectrum Center",43.12,0.0024
+21800431,"2018-12-15","Little Caesars Arena",42.71,0
+21800432,"2018-12-15","Fedex Forum",51.75,0.0736
+21800433,"2018-12-15","At&t Center",56.7,0
+21800434,"2018-12-15","Chesapeake Energy Arena",50.14,0
+21800435,"2018-12-15","Talking Stick Resort Arena",65.16,0
+21800436,"2018-12-16","Barclays Center",49.95,0
+21800437,"2018-12-16","Quicken Loans Arena",41.18,0.0087
+21800438,"2018-12-16","Bankers Life Fieldhouse",42.26,0.0017
+21800439,"2018-12-16","Capital Center",52.43,0.0763
+21800440,"2018-12-16","American Airlines Center",59.39,0
+21800441,"2018-12-16","Smoothie King Center",52.99,0
+21800442,"2018-12-16","Pepsi Center",53.6,0
+21800443,"2018-12-17","Little Caesars Arena",42,0
+21800444,"2018-12-17","Madison Square Garden",39.4,0.0474
+21800445,"2018-12-17","Toyota Center",63.28,0
+21800446,"2018-12-17","Target Center",40.69,0
+21800447,"2018-12-17","Chesapeake Energy Arena",51.29,0
+21800448,"2018-12-17","At&t Center",66,0
+21800449,"2018-12-17","Oracle Arena",58.73,0.0304
+21800450,"2018-12-17","Staples Center",70.21,0
+21800451,"2018-12-18","Bankers Life Fieldhouse",36.82,0
+21800452,"2018-12-18","State Farm Arena",54.92,0
+21800453,"2018-12-18","Barclays Center",42.65,0
+21800454,"2018-12-18","Pepsi Center",55.35,0
+21800455,"2018-12-19","Spectrum Center",50.31,0
+21800456,"2018-12-19","Amway Center",61.3,0
+21800457,"2018-12-19","Wells Fargo Arena",68.47,0
+21800458,"2018-12-19","Td Garden",28.23,0
+21800459,"2018-12-19","Scotiabank Arena",29.5,NULL
+21800460,"2018-12-19","United Center",38.31,0
+21800461,"2018-12-19","Toyota Center",61.79,0
+21800462,"2018-12-19","Fiserv Forum",39.04,0
+21800463,"2018-12-19","Target Center",38.15,0
+21800464,"2018-12-19","Vivint Smart Home Arena",45.46,0
+21800465,"2018-12-19","Moda Center",55.3,0
+21800466,"2018-12-19","Golden 1 Center",62.03,0
+21800467,"2018-12-20","American Airlines Center",58.37,0.0003
+21800468,"2018-12-20","Staples Center",75,0
+21800469,"2018-12-21","Spectrum Center",58.12,0.0562
+21800470,"2018-12-21","Scotiabank Arena",39.19,NULL
+21800471,"2018-12-21","Barclays Center",43.38,0.0329
+21800472,"2018-12-21","Madison Square Garden",42.94,0.0329
+21800473,"2018-12-21","Td Garden",43.21,0
+21800474,"2018-12-21","United Center",44.99,0.0013
+21800475,"2018-12-21","At&t Center",63.28,0
+21800476,"2018-12-21","Moda Center",51.1,0
+21800477,"2018-12-21","Golden 1 Center",53.96,0
+21800478,"2018-12-21","Staples Center",77.6,0
+21800479,"2018-12-22","Staples Center",70.17,0
+21800480,"2018-12-22","Capital Center",57.91,0.0027
+21800481,"2018-12-22","Wells Fargo Arena",67.71,0
+21800482,"2018-12-22","American Airlines Center",58.87,0
+21800483,"2018-12-22","Toyota Center",62.18,0
+21800484,"2018-12-22","Oracle Arena",56.48,0
+21800485,"2018-12-22","Vivint Smart Home Arena",44.99,0
+21800486,"2018-12-23","Little Caesars Arena",33.55,0
+21800487,"2018-12-23","Bankers Life Fieldhouse",36.82,0
+21800488,"2018-12-23","Td Garden",39.27,0
+21800489,"2018-12-23","Barclays Center",43,0
+21800490,"2018-12-23","Quicken Loans Arena",33.89,0
+21800491,"2018-12-23","Amway Center",55.22,0
+21800492,"2018-12-23","Golden 1 Center",54.04,0
+21800493,"2018-12-23","Chesapeake Energy Arena",53.42,0
+21800494,"2018-12-23","Oracle Arena",57.11,0
+21800495,"2018-12-23","Moda Center",42.96,0
+21800496,"2018-12-23","Staples Center",69.39,0
+21800497,"2018-12-25","Madison Square Garden",40.33,0
+21800498,"2018-12-25","Toyota Center",60.14,0
+21800499,"2018-12-25","Td Garden",34.51,0
+21800500,"2018-12-25","Oracle Arena",57.96,0.1171
+21800501,"2018-12-25","Vivint Smart Home Arena",42.14,0
+21800502,"2018-12-26","Little Caesars Arena",32.89,0
+21800503,"2018-12-26","Amway Center",65.97,0
+21800504,"2018-12-26","State Farm Arena",53.67,0
+21800505,"2018-12-26","Barclays Center",36.93,0
+21800506,"2018-12-26","American Airlines Center",63.07,0.0004
+21800507,"2018-12-26","United Center",41.64,0
+21800508,"2018-12-26","Fedex Forum",54.73,0
+21800509,"2018-12-26","American Airlines Center",63.07,0.0004
+21800510,"2018-12-26","At&t Center",71.12,0
+21800511,"2018-12-26","Staples Center",64.05,0
+21800512,"2018-12-27","Toyota Center",66,0.04
+21800513,"2018-12-27","Fiserv Forum",36.83,0
+21800514,"2018-12-27","Golden 1 Center",56.09,0
+21800515,"2018-12-27","Vivint Smart Home Arena",31.42,0
+21800516,"2018-12-27","Oracle Arena",57.85,0
+21800517,"2018-12-28","Spectrum Center",46.15,0
+21800518,"2018-12-28","Bankers Life Fieldhouse",46.04,0.0353
+21800519,"2018-12-28","Amway Center",73.39,0
+21800520,"2018-12-28","Capital Center",47.38,0
+21800521,"2018-12-28","American Airlines Center",54.77,0
+21800522,"2018-12-28","Target Center",35.23,0.0319
+21800523,"2018-12-28","Smoothie King Center",72.69,0.0019
+21800524,"2018-12-28","Pepsi Center",26.77,0
+21800525,"2018-12-28","Talking Stick Resort Arena",58.05,0
+21800526,"2018-12-28","Staples Center",62.12,0
+21800527,"2018-12-29","Fiserv Forum",32.05,0
+21800528,"2018-12-29","Smoothie King Center",63.38,0
+21800529,"2018-12-29","State Farm Arena",59.62,0
+21800530,"2018-12-29","Capital Center",54.1,0
+21800531,"2018-12-29","Fedex Forum",46.23,0
+21800532,"2018-12-29","Vivint Smart Home Arena",25.58,0
+21800533,"2018-12-29","Talking Stick Resort Arena",54.1,0
+21800534,"2018-12-29","Moda Center",44.53,0.0219
+21800535,"2018-12-29","Staples Center",59.43,0
+21800536,"2018-12-30","Amway Center",74.79,0
+21800537,"2018-12-30","American Airlines Center",40.78,0
+21800538,"2018-12-30","Scotiabank Arena",24.64,NULL
+21800539,"2018-12-30","American Airlines Center",40.78,0
+21800540,"2018-12-30","Moda Center",52.18,0
+21800541,"2018-12-30","Staples Center",61.6,0
+21800542,"2018-12-31","Bankers Life Fieldhouse",34.92,0
+21800543,"2018-12-31","Spectrum Center",55.16,0
+21800544,"2018-12-31","Toyota Center",48.39,0.0156
+21800545,"2018-12-31","At&t Center",42.21,0.0069
+21800546,"2018-12-31","Smoothie King Center",69.47,0
+21800547,"2018-12-31","Chesapeake Energy Arena",38.71,0
+21800548,"2018-12-31","Talking Stick Resort Arena",56.16,0
+21800549,"2019-01-01","Scotiabank Arena",36.97,0.0609
+21800550,"2019-01-01","Fiserv Forum",34.16,0.0323
+21800551,"2019-01-01","Pepsi Center",12.08,0
+21800552,"2019-01-01","Golden 1 Center",54.95,0
+21800553,"2019-01-01","Staples Center",60.15,0
+21800554,"2019-01-02","Spectrum Center",61.54,0
+21800555,"2019-01-02","Quicken Loans Arena",34,0
+21800556,"2019-01-02","Capital Center",50.81,0
+21800557,"2019-01-02","Barclays Center",45.11,0
+21800558,"2019-01-02","Td Garden",43.31,0
+21800559,"2019-01-02","United Center",27.65,0
+21800560,"2019-01-02","Fedex Forum",44.98,0
+21800561,"2019-01-02","Talking Stick Resort Arena",50.46,0
+21800562,"2019-01-02","Staples Center",58.3,0
+21800563,"2019-01-03","At&t Center",41.48,0.0263
+21800564,"2019-01-03","Golden 1 Center",53.04,0
+21800565,"2019-01-03","Oracle Arena",54.52,0
+21800566,"2019-01-04","Td Garden",39.8,0
+21800567,"2019-01-04","Quicken Loans Arena",34.08,0
+21800568,"2019-01-04","American Airlines Center",39.72,0
+21800569,"2019-01-04","United Center",37.1,0
+21800570,"2019-01-04","Fedex Forum",43.89,0
+21800571,"2019-01-04","Target Center",38.59,0.0003
+21800572,"2019-01-04","Fiserv Forum",36.5,0
+21800573,"2019-01-04","Talking Stick Resort Arena",56.14,0
+21800574,"2019-01-04","Staples Center",66.34,0
+21800575,"2019-01-04","Moda Center",53.54,0
+21800576,"2019-01-05","Pepsi Center",61.43,0
+21800577,"2019-01-05","Little Caesars Arena",43.59,0
+21800578,"2019-01-05","Wells Fargo Arena",66.34,0
+21800579,"2019-01-05","Quicken Loans Arena",44.48,0
+21800580,"2019-01-05","Fiserv Forum",38.47,0
+21800581,"2019-01-05","At&t Center",68.46,0
+21800582,"2019-01-05","Moda Center",50.96,0
+21800583,"2019-01-05","Golden 1 Center",55.38,0
+21800584,"2019-01-06","United Center",47.75,0
+21800585,"2019-01-06","Target Center",40.2,0
+21800586,"2019-01-06","Staples Center",56.81,0
+21800587,"2019-01-06","State Farm Arena",55.39,0
+21800588,"2019-01-06","Chesapeake Energy Arena",61.86,0
+21800589,"2019-01-06","Scotiabank Arena",34.88,NULL
+21800590,"2019-01-06","Talking Stick Resort Arena",66.01,0
+21800591,"2019-01-07","Little Caesars Arena",36.16,0
+21800592,"2019-01-07","Td Garden",35.44,0
+21800593,"2019-01-07","Toyota Center",69.16,0
+21800594,"2019-01-07","Fiserv Forum",34.54,0
+21800595,"2019-01-07","Smoothie King Center",64,0
+21800596,"2019-01-07","American Airlines Center",63.44,0
+21800597,"2019-01-07","Moda Center",42.7,0.0131
+21800598,"2019-01-07","Golden 1 Center",48.89,0.0405
+21800599,"2019-01-08","Quicken Loans Arena",47.43,0.0656
+21800600,"2019-01-08","Wells Fargo Arena",63.11,0
+21800601,"2019-01-08","American Airlines Center",72.09,0
+21800602,"2019-01-08","Scotiabank Arena",32.27,NULL
+21800603,"2019-01-08","Chesapeake Energy Arena",64.11,0
+21800604,"2019-01-08","Talking Stick Resort Arena",63.31,0
+21800605,"2019-01-08","Oracle Arena",58.13,0
+21800606,"2019-01-08","Staples Center",59.32,0
+21800607,"2019-01-09","Td Garden",40.12,0
+21800608,"2019-01-09","Capital Center",53.26,0
+21800609,"2019-01-09","Barclays Center",41.79,0
+21800610,"2019-01-09","Toyota Center",73.51,0
+21800611,"2019-01-09","Fedex Forum",58.7,0
+21800612,"2019-01-09","Smoothie King Center",70.65,0
+21800613,"2019-01-09","American Airlines Center",64.09,0
+21800614,"2019-01-09","Vivint Smart Home Arena",40.84,0
+21800615,"2019-01-09","Moda Center",46.4,0
+21800616,"2019-01-09","Staples Center",70.33,0
+21800617,"2019-01-10","American Airlines Center",57.75,0
+21800618,"2019-01-10","Pepsi Center",50.02,0
+21800619,"2019-01-10","At&t Center",61.13,0
+21800620,"2019-01-10","Golden 1 Center",61.4,0
+21800621,"2019-01-11","Wells Fargo Arena",65.13,0
+21800622,"2019-01-11","Capital Center",32.03,0
+21800623,"2019-01-11","Madison Square Garden",32.01,0
+21800624,"2019-01-11","Scotiabank Arena",18.69,0.0012
+21800625,"2019-01-11","Toyota Center",59.93,0
+21800626,"2019-01-11","Target Center",23.59,0
+21800627,"2019-01-11","Vivint Smart Home Arena",38.74,0
+21800628,"2019-01-11","Moda Center",52.72,0
+21800629,"2019-01-11","Oracle Arena",58.12,0
+21800630,"2019-01-12","Staples Center",63.21,0
+21800631,"2019-01-12","American Airlines Center",51.9,0.003
+21800632,"2019-01-12","Amway Center",64.39,0
+21800633,"2019-01-12","Target Center",30.74,0
+21800634,"2019-01-12","Chesapeake Energy Arena",42.72,0.0248
+21800635,"2019-01-12","Talking Stick Resort Arena",65.76,0
+21800636,"2019-01-12","Golden 1 Center",57.93,0
+21800637,"2019-01-12","Vivint Smart Home Arena",35.77,0
+21800638,"2019-01-13","Madison Square Garden",31.27,0
+21800639,"2019-01-13","Capital Center",30.62,0.0012
+21800640,"2019-01-13","State Farm Arena",39.66,0.0008
+21800641,"2019-01-13","Amway Center",69.79,0
+21800642,"2019-01-13","American Airlines Center",46.05,0
+21800643,"2019-01-13","Pepsi Center",37.58,0.0077
+21800644,"2019-01-13","Staples Center",58.4,0.0034
+21800645,"2019-01-14","Barclays Center",29.53,0
+21800646,"2019-01-14","Toyota Center",56.6,0
+21800647,"2019-01-14","At&t Center",55.16,0
+21800648,"2019-01-14","Vivint Smart Home Arena",31.19,0
+21800649,"2019-01-14","Golden 1 Center",60.77,0
+21800650,"2019-01-14","Staples Center",59.85,0
+21800651,"2019-01-15","Bankers Life Fieldhouse",28.67,0.0026
+21800652,"2019-01-15","Wells Fargo Arena",68.33,0
+21800653,"2019-01-15","State Farm Arena",43.24,0
+21800654,"2019-01-15","Fiserv Forum",29.14,0
+21800655,"2019-01-15","Pepsi Center",46.49,0.0015
+21800656,"2019-01-15","Staples Center",52.1,0.0859
+21800657,"2019-01-16","Little Caesars Arena",28.83,0
+21800658,"2019-01-16","Td Garden",30.45,0
+21800659,"2019-01-16","Toyota Center",53.05,0
+21800660,"2019-01-16","Fedex Forum",41.51,0
+21800661,"2019-01-16","American Airlines Center",49.26,0
+21800662,"2019-01-16","Moda Center",42.28,0
+21800663,"2019-01-16","Oracle Arena",51.18,0.0517
+21800664,"2019-01-16","Staples Center",55.42,0.0273
+21800665,"2019-01-17","Capital Center",39.73,0
+21800666,"2019-01-17","Spectrum Center",48.56,0
+21800667,"2019-01-17","Bankers Life Fieldhouse",33.65,0.0084
+21800668,"2019-01-17","Scotiabank Arena",19.36,0.0016
+21800669,"2019-01-17","Pepsi Center",49.8,0
+21800670,"2019-01-17","Chesapeake Energy Arena",47.22,0
+21800671,"2019-01-18","Td Garden",25.42,0
+21800672,"2019-01-18","Little Caesars Arena",32.45,0
+21800673,"2019-01-18","Amway Center",64.49,0
+21800674,"2019-01-18","Target Center",21.89,0
+21800675,"2019-01-18","Vivint Smart Home Arena",41.05,0.0303
+21800676,"2019-01-18","Staples Center",61.59,0.0094
+21800677,"2019-01-18","Moda Center",50.92,0.0062
+21800678,"2019-01-19","Wells Fargo Arena",69.41,0
+21800679,"2019-01-19","Spectrum Center",46.42,0
+21800680,"2019-01-19","Little Caesars Arena",30.72,0
+21800681,"2019-01-19","Bankers Life Fieldhouse",35.42,0
+21800682,"2019-01-19","Amway Center",66.82,0
+21800683,"2019-01-19","State Farm Arena",55.11,0
+21800684,"2019-01-19","Scotiabank Arena",28.44,0.002
+21800685,"2019-01-19","United Center",29.45,0
+21800686,"2019-01-19","Toyota Center",71.62,0
+21800687,"2019-01-19","Pepsi Center",35.29,0.0024
+21800688,"2019-01-20","Bankers Life Fieldhouse",26.62,0.001
+21800689,"2019-01-20","Target Center",10.02,0
+21800690,"2019-01-20","At&t Center",60.74,0
+21800691,"2019-01-21","Madison Square Garden",21.76,0
+21800692,"2019-01-21","Quicken Loans Arena",13.03,0
+21800693,"2019-01-21","Capital Center",27.8,0
+21800694,"2019-01-21","Fiserv Forum",7.87,0
+21800695,"2019-01-21","State Farm Arena",35.42,0
+21800696,"2019-01-21","Barclays Center",22.32,0
+21800697,"2019-01-21","Fedex Forum",28.82,0
+21800698,"2019-01-21","Td Garden",24.24,0
+21800699,"2019-01-21","Wells Fargo Arena",73.77,0
+21800700,"2019-01-21","Vivint Smart Home Arena",46.14,0
+21800701,"2019-01-21","Staples Center",69.18,0
+21800702,"2019-01-22","Scotiabank Arena",10.84,0.0002
+21800703,"2019-01-22","Chesapeake Energy Arena",52.41,0
+21800704,"2019-01-22","American Airlines Center",57.81,0
+21800705,"2019-01-22","Talking Stick Resort Arena",65.12,0
+21800706,"2019-01-23","Bankers Life Fieldhouse",39.38,0.0092
+21800707,"2019-01-23","Td Garden",21.96,0
+21800708,"2019-01-23","Barclays Center",29.97,0
+21800709,"2019-01-23","American Airlines Center",61.65,0.0015
+21800710,"2019-01-23","Madison Square Garden",29.11,0
+21800711,"2019-01-23","Wells Fargo Arena",63.62,0
+21800712,"2019-01-23","United Center",31.73,0.0019
+21800713,"2019-01-23","Fedex Forum",52.49,0
+21800714,"2019-01-23","Smoothie King Center",68.45,0
+21800715,"2019-01-23","Vivint Smart Home Arena",32.14,0
+1321800001,"2018-07-02","Oracle Arena",71.16,0
+1321800002,"2018-07-02","Golden 1 Center",95.21,0
+1321800003,"2018-07-03","Staples Center",79.41,0
+1321800004,"2018-07-03","Golden 1 Center",88.12,0
+1321800005,"2018-07-05","Oracle Arena",67.84,0
+1321800006,"2018-07-05","Golden 1 Center",75.98,0
+1421700001,"2017-07-01","American Airlines Center",95.18,0
+1421700002,"2017-07-01","Bankers Life Fieldhouse",71.82,0.1219
+1421700003,"2017-07-01","American Airlines Center",95.18,0
+1421700004,"2017-07-01","Little Caesars Arena",72.53,0.076
+1421700005,"2017-07-02","Little Caesars Arena",83.02,0
+1421700006,"2017-07-02","American Airlines Center",80.85,0
+1421700007,"2017-07-02","Spectrum Center",76.28,0.0139
+1421700008,"2017-07-03","Chesapeake Energy Arena",84,0.0003
+1421700009,"2017-07-03","American Airlines Center",93.9,0
+1421700010,"2017-07-03","American Airlines Center",93.9,0
+1421700011,"2017-07-04","Chesapeake Energy Arena",93.67,0
+1421700012,"2017-07-04","American Airlines Center",93.05,0
+1421700013,"2017-07-04","Little Caesars Arena",79.77,0
+1421700014,"2017-07-05","Chesapeake Energy Arena",82.98,0
+1421700015,"2017-07-05","Little Caesars Arena",80.2,0
+1421700016,"2017-07-05","Madison Square Garden",83.49,0
+1421700017,"2017-07-06","American Airlines Center",92.76,0
+1421700018,"2017-07-06","Amway Center",91.46,0
+1421700019,"2017-07-06","Bankers Life Fieldhouse",84.12,0
+1421700020,"2017-07-06","American Airlines Center",92.76,0
+1521700001,"2017-07-07","Smoothie King Center",84.87,0
+1521700002,"2017-07-07","Quicken Loans Arena",79.67,0
+1521700003,"2017-07-07","State Farm Arena",82.84,0.0047
+1521700004,"2017-07-07","Staples Center",90.12,0
+1521700005,"2017-07-07","Pepsi Center",92.48,0
+1521700006,"2017-07-07","Golden 1 Center",99.48,0
+1521700007,"2017-07-08","Fedex Forum",90.8,0
+1521700008,"2017-07-08","United Center",77.55,0
+1521700009,"2017-07-08","Vivint Smart Home Arena",97.28,0
+1521700010,"2017-07-08","Target Center",78.46,0
+1521700011,"2017-07-08","At&t Center",94.82,0
+1521700012,"2017-07-08","Staples Center",96.32,0
+1521700013,"2017-07-08","Quicken Loans Arena",78.71,0
+1521700014,"2017-07-08","Oracle Arena",90.81,0
+1521700015,"2017-07-09","Smoothie King Center",83.38,0
+1521700016,"2017-07-09","American Airlines Center",85.47,0.0554
+1521700017,"2017-07-09","Barclays Center",82.49,0
+1521700018,"2017-07-09","Pepsi Center",80.88,0.0031
+1521700019,"2017-07-09","Staples Center",97.24,0
+1521700020,"2017-07-09","Td Garden",77.74,0.0018
+1521700021,"2017-07-09","Golden 1 Center",104.01,0
+1521700022,"2017-07-09","At&t Center",96.35,0
+1521700023,"2017-07-10","United Center",84.16,0
+1521700024,"2017-07-10","Capital Center",83.32,0
+1521700025,"2017-07-10","Smoothie King Center",83.17,0.0003
+1521700026,"2017-07-10","Talking Stick Resort Arena",107.25,0
+1521700027,"2017-07-10","Scotiabank Arena",78.75,0
+1521700028,"2017-07-10","Quicken Loans Arena",78.39,0
+1521700029,"2017-07-10","Fiserv Forum",82.79,0
+1521700030,"2017-07-10","Golden 1 Center",99.4,0
+1521700031,"2017-07-11","Moda Center",76.19,0
+1521700032,"2017-07-11","Fedex Forum",90.99,0
+1521700033,"2017-07-11","Capital Center",88.11,0
+1521700034,"2017-07-11","Td Garden",83.3,0
+1521700035,"2017-07-11","American Airlines Center",93.62,0
+1521700036,"2017-07-11","Target Center",84.14,0
+1521700037,"2017-07-12","State Farm Arena",78.91,0.0437
+1521700038,"2017-07-12","Toyota Center",84.51,0.0125
+1521700039,"2017-07-12","American Airlines Center",96.16,0
+1521700040,"2017-07-12","Target Center",84.65,0
+1521700041,"2017-07-12","Talking Stick Resort Arena",102.21,0
+1521700042,"2017-07-12","Fiserv Forum",79.81,0.0006
+1521700043,"2017-07-12","Moda Center",75.25,0
+1521700044,"2017-07-12","Staples Center",87.12,0
+1521700045,"2017-07-13","At&t Center",86.95,0.0006
+1521700046,"2017-07-13","Barclays Center",86.81,0
+1521700047,"2017-07-13","Td Garden",78.42,0.01
+1521700048,"2017-07-13","Staples Center",85.42,0
+1521700049,"2017-07-13","Fedex Forum",91.33,0
+1521700050,"2017-07-13","American Airlines Center",95.05,0
+1521700051,"2017-07-13","Scotiabank Arena",75.35,0.0256
+1521700052,"2017-07-13","Quicken Loans Arena",84.4,0
+1521700053,"2017-07-14","State Farm Arena",87.07,0.0049
+1521700054,"2017-07-14","Target Center",65.68,0
+1521700055,"2017-07-14","Fiserv Forum",76.55,0
+1521700056,"2017-07-14","Staples Center",85.42,0
+1521700057,"2017-07-14","Pepsi Center",84.27,0
+1521700058,"2017-07-14","United Center",82.18,0
+1521700059,"2017-07-14","Talking Stick Resort Arena",107.35,0
+1521700060,"2017-07-14","Scotiabank Arena",63.41,0
+1521700061,"2017-07-15","At&t Center",96.97,0
+1521700062,"2017-07-15","Fedex Forum",91.58,0.0038
+1521700063,"2017-07-15","American Airlines Center",95.55,0.0013
+1521700064,"2017-07-15","Barclays Center",69.29,0.0113
+1521700065,"2017-07-16","Fedex Forum",87.21,0.0016
+1521700066,"2017-07-16","American Airlines Center",92.73,0
+1521700067,"2017-07-17","Staples Center",83.87,0
+1521800001,"2018-07-06","Bankers Life Fieldhouse",74.12,0.0339
+1521800002,"2018-07-06","Smoothie King Center",83.97,0
+1521800003,"2018-07-06","Amway Center",79.72,0.0011
+1521800004,"2018-07-06","Spectrum Center",92.32,0
+1521800005,"2018-07-06","Little Caesars Arena",93.61,0
+1521800006,"2018-07-06","Wells Fargo Arena",112.58,0
+1521800007,"2018-07-06","Capital Center",89.47,0
+1521800008,"2018-07-06","Talking Stick Resort Arena",112.94,0
+1521800009,"2018-07-06","Target Center",80.46,0
+1521800010,"2018-07-06","Oracle Arena",74.7,0
+1521800011,"2018-07-07","Vivint Smart Home Arena",97.58,0
+1521800012,"2018-07-07","Bankers Life Fieldhouse",80.48,0
+1521800013,"2018-07-07","Smoothie King Center",85.82,0.0038
+1521800014,"2018-07-07","State Farm Arena",76.36,0.0988
+1521800015,"2018-07-07","Barclays Center",81.12,0
+1521800016,"2018-07-07","Golden 1 Center",90.14,0
+1521800017,"2018-07-07","Fedex Forum",80.57,0.0034
+1521800018,"2018-07-07","Quicken Loans Arena",73.71,0
+1521800019,"2018-07-07","Pepsi Center",88.76,0
+1521800020,"2018-07-07","Staples Center",110.23,0
+1521800021,"2018-07-08","Scotiabank Arena",77.27,NULL
+1521800022,"2018-07-08","At&t Center",88.96,0.0085
+1521800023,"2018-07-08","American Airlines Center",94.87,0
+1521800024,"2018-07-08","State Farm Arena",81.17,0.0175
+1521800025,"2018-07-08","Fiserv Forum",77.72,0
+1521800026,"2018-07-08","Toyota Center",87.9,0.0265
+1521800027,"2018-07-08","Madison Square Garden",73.6,0
+1521800028,"2018-07-08","Amway Center",80.25,0.0029
+1521800029,"2018-07-08","Staples Center",101.5,0
+1521800030,"2018-07-08","United Center",78.3,0
+1521800031,"2018-07-09","Little Caesars Arena",84.08,0
+1521800032,"2018-07-09","Chesapeake Energy Arena",88.89,0
+1521800033,"2018-07-09","Quicken Loans Arena",81.12,0
+1521800034,"2018-07-09","Wells Fargo Arena",108.89,0
+1521800035,"2018-07-09","Td Garden",81.51,0
+1521800036,"2018-07-09","American Airlines Center",92.23,0
+1521800037,"2018-07-09","Pepsi Center",95.33,0
+1521800038,"2018-07-09","Talking Stick Resort Arena",109.24,0
+1521800039,"2018-07-09","Target Center",88.77,0
+1521800040,"2018-07-09","Toyota Center",77.37,0.001
+1521800041,"2018-07-10","Moda Center",66.8,0
+1521800042,"2018-07-10","American Airlines Center",86.51,0.0049
+1521800043,"2018-07-10","United Center",89.41,0
+1521800044,"2018-07-10","Fedex Forum",85.55,0.0095
+1521800045,"2018-07-10","Madison Square Garden",83.93,0
+1521800046,"2018-07-11","Capital Center",92.2,0
+1521800047,"2018-07-11","Quicken Loans Arena",82.21,0
+1521800048,"2018-07-11","Toyota Center",89.31,0
+1521800049,"2018-07-11","American Airlines Center",80.89,0.0789
+1521800050,"2018-07-11","Target Center",84.06,0
+1521800051,"2018-07-11","Bankers Life Fieldhouse",84.04,0.0038
+1521800052,"2018-07-11","Pepsi Center",96.7,0
+1521800053,"2018-07-11","Spectrum Center",91.31,0
+1521800054,"2018-07-12","Smoothie King Center",83.26,0
+1521800055,"2018-07-12","Td Garden",74.11,0
+1521800056,"2018-07-12","Chesapeake Energy Arena",93.74,0
+1521800057,"2018-07-12","Talking Stick Resort Arena",98.32,0
+1521800058,"2018-07-12","Fiserv Forum",79.54,0
+1521800059,"2018-07-12","Staples Center",89.22,0
+1521800060,"2018-07-12","Amway Center",89.5,0
+1521800061,"2018-07-12","Moda Center",85.07,0
+1521800062,"2018-07-13","Bankers Life Fieldhouse",84.15,0
+1521800063,"2018-07-13","Smoothie King Center",90.12,0
+1521800064,"2018-07-13","American Airlines Center",81.19,0.0269
+1521800065,"2018-07-13","Talking Stick Resort Arena",99.33,0
+1521800066,"2018-07-13","Pepsi Center",80.46,0
+1521800067,"2018-07-13","Chesapeake Energy Arena",93.23,0
+1521800068,"2018-07-13","Oracle Arena",77.28,0
+1521800069,"2018-07-13","Staples Center",88.96,0
+1521800070,"2018-07-14","United Center",91.3,0
+1521800071,"2018-07-14","Toyota Center",89.82,0
+1521800072,"2018-07-14","Spectrum Center",86.63,0
+1521800073,"2018-07-14","Td Garden",76.52,0
+1521800074,"2018-07-14","Fiserv Forum",91.4,0
+1521800075,"2018-07-14","Vivint Smart Home Arena",93.83,0
+1521800076,"2018-07-15","Staples Center",88.31,0
+1521800077,"2018-07-15","Quicken Loans Arena",85.64,0
+1521800078,"2018-07-15","Moda Center",86.76,0
+1521800079,"2018-07-15","Fedex Forum",96.02,0
+1521800080,"2018-07-16","Staples Center",87.63,0
+1521800081,"2018-07-16","Moda Center",94.75,0
+1521800082,"2018-07-17","Staples Center",85.67,0
+1621700001,"2017-07-03","Wells Fargo Arena",107.99,0
+1621700002,"2017-07-03","Vivint Smart Home Arena",91.9,0
+1621700003,"2017-07-05","At&t Center",97.71,0
+1621700004,"2017-07-05","Vivint Smart Home Arena",96.96,0
+1621700005,"2017-07-06","At&t Center",95.96,0
+1621700006,"2017-07-06","Vivint Smart Home Arena",96.43,0
+1621800001,"2018-07-02","Fedex Forum",93.24,0
+1621800002,"2018-07-02","Vivint Smart Home Arena",82.58,0
+1621800003,"2018-07-03","State Farm Arena",87.63,0
+1621800004,"2018-07-03","Vivint Smart Home Arena",89.35,0
+1621800005,"2018-07-05","At&t Center",88.82,0.0607
+1621800006,"2018-07-05","Vivint Smart Home Arena",92.1,0
